@@ -1,11 +1,3 @@
-http://300sandwiches.com/feed/ Cooking
-http://30sleeps.com/blog/feed/ Featured
-http://accordingtodevin.tumblr.com/rss Comics
-http://achewood.com/rss.php Comics
-http://adam4d.com/feed/ Comics
-http://addicted2success.com/feed/ Featured
-http://adevelopersvoice.com/feed/ Software Development
-http://alandgraf.blogspot.com//feeds/posts/default Data Analysis
 http://alpinenow.com/blog/feed/ Data Analysis
 http://amultiverse.com/feed/ Comics
 http://andrewgelman.com/ Data Analysis
