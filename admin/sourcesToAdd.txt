@@ -573,3 +573,5 @@ http://www.womanandhome.com/feeds/recipes.rss Cooking
 http://xianblog.wordpress.com/feed/ Data Analysis
 http://yummysupper.blogspot.com/feeds/posts/default?alt=rss Cooking
 http://zulko.github.io/atom.xml Software Development
+http://feeds.feedburner.com/Cheerlessness?format=xml Comics
+http://www.taste.co.nz/feed/ Cooking
