@@ -567,3 +567,15 @@ http://yummysupper.blogspot.com/feeds/posts/default?alt=rss Cooking
 http://zulko.github.io/atom.xml Software Development
 http://feeds.feedburner.com/Cheerlessness?format=xml Comics
 http://www.taste.co.nz/feed/ Cooking
+http://anotherallegedfoodblog.blogspot.com/feeds/posts/default Cooking
+http://feeds.feedburner.com/Semantikoz?format=xml Data Analysis
+http://blog.andreamostosi.name/feed/ Data Analysis
+http://blog.hackerearth.com/feed Software Development
+http://feeds.feedburner.com/TheCreeksideCook?format=xml Cooking
+http://whatsfordinner-momwhatsfordinner.blogspot.com/feeds/posts/default Cooking
+http://www.onthelambda.com/feed/ Data Analysis
+http://feeds.feedburner.com/BrewReviewCrew?format=xml Beer
+http://feeds.feedburner.com/RBloggers?format=xml Data Analysis
+http://feeds.feedburner.com/CookingMelangery?format=xml Cooking
+http://feeds.feedburner.com/everydayroots?format=xml Featured
+http://hortonworks.com/blog/type/dev/feed/ Data Analysis
