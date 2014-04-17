@@ -1,31 +1,3 @@
-http://alpinenow.com/blog/feed/ Data Analysis
-http://amultiverse.com/feed/ Comics
-http://andrewgelman.com/ Data Analysis
-http://andrewgelman.com/feed/ Data Analysis
-http://andytroutman.com/feed.xml Software Development
-http://anneskitchen.co.uk/feed/ Cooking
-http://anothercomicstrip.com/feed/ Comics
-http://appliedhumor.blogspot.com/feeds/posts/default Comics
-http://arbitmba.com/feed Comics
-http://artent.net/blog/feed/ Data Analysis
-http://bactra.org/weblog/index.rss Data Analysis
-http://beautifuldata.net/feed/ Data Analysis
-http://beerchow.com/feed/ Beer
-http://beerchow.com/feed/ Cooking
-http://birdandmoon.tumblr.com/rss Comics
-http://blog.andreamostosi.name/feed/ Data Analysis
-http://blog.asmartbear.com/feed/ Software Development
-http://blog.bigdinosaur.org/atom.xml Software Development
-http://blog.bigml.com/feed/ Data Analysis
-http://blog.continuuity.com/rss Data Analysis
-http://blog.expectlabs.com/rss Data Analysis
-http://blog.explainmydata.com/feeds/posts/default Data Analysis
-http://blog.factual.com/feed Data Analysis
-http://blog.georgetownvoice.com/feed/ Featured
-http://blog.gosynapsify.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=280847&moduleid=534518&maxcount=25&t=c440d9b89d115ba3f3aa0e87835a6c4d Data Analysis
-http://blog.kaggle.com/feed/ Data Analysis
-http://blog.mongodb.org/rss Software Development
-http://blog.mortardata.com/rss Data Analysis
 http://blog.newrelic.com/feed Software Development
 http://blog.perrygeo.net/atom.xml Software Development
 http://blog.prediction.io/feed/ Data Analysis
