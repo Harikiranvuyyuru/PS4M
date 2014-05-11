@@ -1,1 +1,9 @@
 http://anothercomicstrip.com/feed/ Comics
+http://cdn.cad-comic.com/rss.xml Comics
+http://feeds.feedburner.com/alexandracooks/OoQp?format=xml Cooking
+http://inpursuitofmore.com/feed/ Cooking
+http://feeds.feedburner.com/BeatriceTheBiologist?format=xml Comics
+http://blog.yhathq.com/rss.xml
+http://columbiadatascience.com/blog/
+http://crowdflower.com/blog/feed/
+     
