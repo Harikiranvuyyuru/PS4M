@@ -307,7 +307,6 @@ http://nonadventures.com/feed/ Comics
 http://normaldeviate.wordpress.com/ Data Analysis
 http://normaldeviate.wordpress.com/feed/ Data Analysis
 http://notwithoutsalt.com/feed/ Cooking
-http://nuit-blanche.blogspot.com/feeds/posts/default Data Analysis
 http://observationalepidemiology.blogspot.com/feeds/posts/default Data Analysis
 http://octopuns.blogspot.com/feeds/posts/default Comics
 http://ohsheglows.com/feed/ Cooking
@@ -579,3 +578,33 @@ http://feeds.feedburner.com/RBloggers?format=xml Data Analysis
 http://feeds.feedburner.com/CookingMelangery?format=xml Cooking
 http://feeds.feedburner.com/everydayroots?format=xml Featured
 http://hortonworks.com/blog/type/dev/feed/ Data Analysis
+http://nuit-blanche.blogspot.com/feeds/posts/default Data Analysis
+http://gdata.youtube.com/feeds/base/users/UCfDNi1aEljAQ17mUrfUjkvg/uploads Cooking
+http://blog.pythonanywhere.com/feed/ Software Development
+http://www.toptal.com/blog.rss Software Development
+http://blog.datapipe.com/blog/rss.xml Data Analysis
+http://www.fowllanguagecomics.com/feed/ Comics
+http://feeds.feedburner.com/LinkedInBlog?format=xml Featured
+http://theconcourse.deadspin.com/rss Featured
+http://cloudtweaks.com/feed/ Tech
+http://observationalepidemiology.blogspot.com/feeds/posts/default Data Analysis
+http://www.choosingvoluntarysimplicity.com/feed/ Featured
+http://lovebeerlovefood.com/feed/ Beer
+http://lovebeerlovefood.com/feed/ Cooking
+http://blog.cloudera.com/blog/feed/ Data Analysis
+http://www.thelawstudentswife.com/feed/ Data Analysis
+http://feeds.feedburner.com/TheMadFermentationist?format=xml Beer
+http://feeds.feedburner.com/BeerOfTomorrow?format=xml Beer
+http://www.snackish.com/feed/ Cooking
+http://beermasters.co/feed/ Beer
+http://leemendelowitz.github.io/blog/feeds/all.atom.xml Software Development
+http://matthewrocklin.com/blog/atom.xml Software Development
+http://feed.dilbert.com/dilbert/blog?format=xml Featured
+http://stilldrinking.org/rss/feed.xml Featured
+http://nineteenletterslong.tumblr.com/rss Comics
+http://mathwithbaddrawings.com/feed/ Math
+http://matthewrocklin.com/blog/atom.xml Software Development
+http://leemendelowitz.github.io/blog/feeds/all.atom.xml Software Development
+http://www.machinedlearnings.com/feeds/posts/default Data Analysis
+http://feeds.feedburner.com/rsio?format=xml Featured
+http://www.boyinpinkearmuffs.com/banapplenut/feed/ Comics
