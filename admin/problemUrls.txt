@@ -1,9 +1,14 @@
+http://www.azilliondollarscomics.com/feeds/posts/default Comics
 http://anothercomicstrip.com/feed/ Comics
 http://cdn.cad-comic.com/rss.xml Comics
 http://feeds.feedburner.com/alexandracooks/OoQp?format=xml Cooking
 http://inpursuitofmore.com/feed/ Cooking
 http://feeds.feedburner.com/BeatriceTheBiologist?format=xml Comics
-http://blog.yhathq.com/rss.xml
-http://columbiadatascience.com/blog/
-http://crowdflower.com/blog/feed/
-     
+http://blog.yhathq.com/rss.xml Data Analysis
+http://columbiadatascience.com/blog/ Data Analysis
+http://crowdflower.com/blog/feed/ Data Analysis
+http://engineering.richrelevance.com/feed/ Data Analysis
+http://feeds.feedburner.com/JustOneCookbook?format=xml Cooking
+http://davidshimel.com/feed/ Data Analysis
+http://dev.nuodb.com/techblog/feed Data Analysis
+http://feeds.feedburner.com/grobmeier?format=xml Software Development
