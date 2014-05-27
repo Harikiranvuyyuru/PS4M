@@ -321,3 +321,17 @@ http://leemendelowitz.github.io/blog/feeds/all.atom.xml Software Development
 http://www.machinedlearnings.com/feeds/posts/default Data Analysis
 http://feeds.feedburner.com/rsio?format=xml Featured
 http://www.boyinpinkearmuffs.com/banapplenut/feed/ Comics
+http://recode.net/feed/ Tech
+http://pandodaily.com.feedsportal.com/c/35141/f/650422/index.rss Tech
+https://www.theinformation.com/feed Tech
+http://feeds.feedburner.com/datastax?format=xml Data Analysis
+http://www.shoeboxblog.com/?feed=rdf Comics
+http://datasciencelab.wordpress.com/feed/ Data Analysis
+http://www.startbodyweight.com/feeds/posts/default Fiteness
+http://hivedata.com/feed/ Data Analysis
+http://feeds.feedburner.com/BrewReviewCrew?format=xml Beer
+http://myfoodeeblog.com/feed/ Cooking
+http://thepourfool.com/feed/ Beer
+http://twobrewreview.com/feed/ Beer
+http://blog.gedrap.me/atom.xml Software Development
+http://feeds.feedburner.com/ibm-big-data-hub Data Analysis
