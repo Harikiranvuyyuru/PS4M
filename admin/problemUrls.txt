@@ -1,3 +1,4 @@
+http://liquidkids.blogspot.com/feeds/posts/default Comics
 http://www.azilliondollarscomics.com/feeds/posts/default Comics
 http://anothercomicstrip.com/feed/ Comics
 http://cdn.cad-comic.com/rss.xml Comics
@@ -12,3 +13,33 @@ http://feeds.feedburner.com/JustOneCookbook?format=xml Cooking
 http://davidshimel.com/feed/ Data Analysis
 http://dev.nuodb.com/techblog/feed Data Analysis
 http://feeds.feedburner.com/grobmeier?format=xml Software Development
+http://palakonda.org/feed/ Software Development Software Development
+http://normaldeviate.wordpress.com/ Data Analysis
+http://overcompensating.com/rss/ Comics
+http://planetkaren.girl-wonder.org/ Comics
+https://justin-duke-zoxc.squarespace.com/blog?format=rss Software Development
+http://statisticsforum.wordpress.com/feed/ Data Analysis
+http://taintedink.com/feed/rss/ Comics
+https://justin-duke-zoxc.squarespace.com/blog?format=rss Data Analysis
+http://strawberry-pie.net/yamac/?feed=rss2 Comics
+http://ubertoolcomic.com/?feed=rss2 Comics
+https://crowdflower.com/blog/feed Data Analysis
+http://www.peaceloveandlowcarb.com/feeds/posts/default Cooking
+http://www.mitchclem.com/mystupidlife/rss.php Comics
+http://www.databozo.com/feed.xml Data Analysis
+http://www.depressedalien.com/rss Comics
+http://www.jesshamrick.com/atom.xml Software Development
+http://www.thelawstudentswife.com/feed/ Data Analysis
+http://www.beatricebiologist.com/feeds/posts/default Comics
+http://www.mitchclem.com/nothingnice/rss.php Comics
+http://www.againstallgrain.com/feed/ Cooking
+http://www.ninjaandpirate.com/feed/ Comics
+http://www.thebeekeepersdigest.com/ Cooking
+http://www.historycomically.com/feed/ Comics
+http://www.johnmyleswhite.com/ Data Analysis
+http://www.texosophy.com/feed/ Comics
+http://www.nataliedee.com/rss/rss.php Comics
+http://www.joyoftech.com/joyoftech/jotblog/ Comics
+http://www.scientificamerican.com/topic/exercise-and-fitness/ Healthy Living
+http://www.inspiredtaste.net/feed/ Cooking
+http://www.scientificamerican.com/subjects/space/ Space
