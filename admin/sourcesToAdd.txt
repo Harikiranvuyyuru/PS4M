@@ -1,3 +1,4 @@
+http://georgetownmerchants.tumblr.com/rss Seattle
 http://recode.net/feed/ Tech
 http://pandodaily.com.feedsportal.com/c/35141/f/650422/index.rss Tech
 https://www.theinformation.com/feed Tech
@@ -24,3 +25,35 @@ http://themindunleashed.org/feed Featured
 http://analyticsweek.com/feed/ Data Analysis
 http://www.johnmyleswhite.com/feed/ Data Analysis
 http://www.womanandhome.com/feeds/news-and-entertainment.rss
+http://feeds.feedburner.com/dataconomy?format=xml Data Analysis
+http://feeds.feedburner.com/yes/most-recent-articles?format=xml Featured
+http://ignorantfacts.com/rss Cool Stuff
+http://nataliedeemachine.com/rss/rss.php Comics
+http://twothirdsdone.com/feed/ Featured
+http://blog.dataweave.in/rss Data Analysis
+http://adrianagameover.com/en/comic/feed/atom/ Comics
+http://developers.lyst.com/feed.xml Data Analysis
+http://feeds.feedburner.com/rsio Featured
+http://feeds2.feedburner.com/thenextweb Tech
+http://www.vendavo.com/feed/ Data Analysis
+http://0xdata.com/blog/feed/ Data Analysis
+http://www.thefrugalgirl.com/feed/ Cooking
+http://feeds.feedblitz.com/5dinners Cooking
+http://feeds.feedburner.com/DianasaurDishes?format=xml Cooking
+http://www.cheaprecipeblog.com/feed/ Cooking
+http://feeds.feedburner.com/stonesoup/zQie Cooking
+http://www.budgetgourmetmom.com/feed/ Cooking
+http://www.thelawstudentswife.com/feed/ Cooking
+http://brulosophy.com/feed/ Beer
+http://feeds.feedburner.com/HamletsDanish?format=xml Comics
+http://ml.posthaven.com/posts.atom Data Analysis
+http://feeds.feedburner.com/thegalleygourmet/Ihxj?format=xml Cooking
+http://feeds2.feedburner.com/MarksDailyApple/ Fitness
+http://feeds.feedburner.com/leangains Fitness
+http://feeds.feedburner.com/EdiblePerspective Cooking
+http://feeds.feedburner.com/theyearinfood/DWIx?format=xml Cooking
+http://listsmania.com/feed/ Featured
+http://feeds.feedburner.com/SimpleBites?format=xml Cooking
+http://ohmyveggies.com/feed/ Cooking
+http://paleomagonline.com/feed/ Fitess
+http://cryptex-cs.blogspot.com/feeds/posts/default Data Analysis
