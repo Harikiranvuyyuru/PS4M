@@ -43,3 +43,8 @@ http://www.joyoftech.com/joyoftech/jotblog/ Comics
 http://www.scientificamerican.com/topic/exercise-and-fitness/ Healthy Living
 http://www.inspiredtaste.net/feed/ Cooking
 http://www.scientificamerican.com/subjects/space/ Space
+http://listsmania.com/feed/ Featured
+http://nataliedeemachine.com/rss/rss.php Comics
+http://www.startbodyweight.com/feeds/posts/default Fiteness
+http://www.thelawstudentswife.com/feed/ Cooking
+http://yarcdata.com/blog/feed Data Analysis
