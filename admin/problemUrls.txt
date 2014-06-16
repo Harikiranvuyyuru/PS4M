@@ -48,3 +48,6 @@ http://nataliedeemachine.com/rss/rss.php Comics
 http://www.startbodyweight.com/feeds/posts/default Fiteness
 http://www.thelawstudentswife.com/feed/ Cooking
 http://yarcdata.com/blog/feed Data Analysis
+http://www.automaticallybored.com/feed/  Comics
+http://beermumbo.com/feed/ Beer
+
