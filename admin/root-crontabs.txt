@@ -1,0 +1,2 @@
+MAILTO=""
+30	0,8,16		*	*	*	cd /home/ubuntu/PS4M/crawler; python ./updateItemTable.py >> /home/ubuntu/logs/crawl-$(date +\%m-\%d-\%Y).txt 2>&1; cd ..; python titleIndexer.py && python sourceIndexer.py && python generateOriginalSourceMapping.py && ./admin/scripts/restartStartService.sh;
