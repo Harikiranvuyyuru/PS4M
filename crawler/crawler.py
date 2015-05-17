@@ -159,8 +159,8 @@ def redditFactory(urlHandle, feedUrl):
     log.debug("Creating reddit webfeed")
     NUM_ITEM_TO_SAVE = 10
 
-    json = json.load(urlHandle)
-    jsonChildren = json['data']['children']
+    json_blob = json.load(urlHandle)
+    jsonChildren = json_blob['data']['children']
 
     # Get info for all of the items
     itemToScore = {}
