@@ -1,7 +1,7 @@
 import HTMLParser
 import logging
 import re
-import simplejson
+import json
 import urllib2
 import xml.dom.minidom
 
@@ -159,7 +159,7 @@ def redditFactory(urlHandle, feedUrl):
     log.debug("Creating reddit webfeed")
     NUM_ITEM_TO_SAVE = 10
 
-    json = simplejson.load(urlHandle)
+    json = json.load(urlHandle)
     jsonChildren = json['data']['children']
 
     # Get info for all of the items
