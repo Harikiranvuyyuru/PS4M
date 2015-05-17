@@ -24,7 +24,7 @@ def dumpItemTableColumn(column_name):
     if os.path.isfile(output_path):
         os.remove(output_path)
 
-    cmd = "echo 'select %s from items;' | ~/bin/dbConnect.sh > %s" % (column_name, output_path)
+    cmd = "echo 'select %s from items;' | mysql --user=root --password=$DB_PASSWORD PS4M > %s" % (column_name, output_path)
     sys_ret = os.system(cmd)
     assert(sys_ret == 0)
 

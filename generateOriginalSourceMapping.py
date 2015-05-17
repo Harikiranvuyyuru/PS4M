@@ -16,7 +16,7 @@ select url, id, sourceUrl from items where url in (select url from repeated_urls
 """
 
 DUMP_PATH = 'var/duplicateUrls.txt'
-DATA_DUMP_COMMAND = "echo '%s' | ~/bin/dbConnect.sh > %s" % (SQL, DUMP_PATH)
+DATA_DUMP_COMMAND = "echo '%s' | mysql --user=root --password=$DB_PASSWORD PS4M > %s" % (SQL, DUMP_PATH)
 OUT_FILE_PATH = 'var/duplicateUrlToOriginalid.txt'
 
 
