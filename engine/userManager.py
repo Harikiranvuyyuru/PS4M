@@ -12,7 +12,7 @@ log = getLogger()
 def getUser(user_name):
     if user_name:
         user = userNameToUserObject[user_name]
-        user.updateVoteIds()
+        user.updateVoteUrls()
         return user
     else:
         return None

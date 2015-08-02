@@ -7,14 +7,14 @@ class User:
     def __init__(self, name):
         self.name = name
         self.itemIdToVoteType = {}
-        self.idsVotedOn = set()
+        self.urlVotedOn = set()
         self.sourcesWithVotes = set()
 
         # Get all items user has voted on.
         votes = getAllVotesByUser(self.name)
         for v in votes:
             self.itemIdToVoteType[v.item.id] = v.type
-            self.idsVotedOn.add(v.item.id)
+            self.urlVotedOn.add(v.item.url)
             self.sourcesWithVotes.add(v.item.source.url.value)
 
         #self.destinationScorer = BayesScorer(votes, getItemUrlDomain, "urlDomain")
@@ -36,13 +36,15 @@ class User:
     def hasVotedOnSource(self, item):
         return (item.source.url.value in self.sourcesWithVotes)
 
-    def hasVotedOnItem(self, item):
-        return (item.id in self.idsVotedOn)
+    def hasVotedOnUrl(self, item):
+        return (item.url in self.urlVotedOn)
 
     def voteType(self, itemId):
         if itemId not in self.itemIdToVoteType:
             return None
         return self.itemIdToVoteType[itemId]
 
-    def updateVoteIds(self):
-        self.idsVotedOn = getAllVoteIdsByUser(self.name)
+    def updateVoteUrls(self):
+        pass
+        #assert(False)
+        #self.urlVotedOn = getAllVoteIdsByUser(self.name)

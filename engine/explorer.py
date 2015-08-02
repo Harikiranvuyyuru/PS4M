@@ -5,7 +5,7 @@ def getTopItemsByTitle(items, user, numRequested, resultSet):
     itemsToScore = {}
 
     for i in items:
-        if(user.hasVotedOnItem(i) or user.hasVotedOnSource(i)):
+        if(user.hasVotedOnUrl(i) or user.hasVotedOnSource(i)):
             # XXX: Maybe just drop it?
             itemsToScore[i] = ScoredValue(0, "")
             continue

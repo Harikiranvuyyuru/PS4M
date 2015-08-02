@@ -23,13 +23,13 @@ def getPicks(user, pageNum, category=None):
     itemUniverse = getNonExpiredItems(category)
 
     if(pageNum < PAGE_NUM_TO_IGNORE_ITEM_SOURCE):
-        result = DisparateResultSet(num_wrappers = pageNum - 1, filter=user.hasVotedOnItem)
+        result = DisparateResultSet(num_wrappers = pageNum - 1, filter=user.hasVotedOnUrl)
         getPicksForGroup(itemUniverse, user, DEFAULT_ITEMS_PER_PAGE, result)
     
     if(result is None or len(result) < DEFAULT_ITEMS_PER_PAGE):
         if result is None:
             result = DisparateResultSet(PAGE_NUM_TO_IGNORE_ITEM_SOURCE - pageNum,
-                                        filter=user.hasVotedOnItem)
+                                        filter=user.hasVotedOnUrl)
         getTopItemsByTitle(itemUniverse, user, DEFAULT_ITEMS_PER_PAGE - len(result), result)
 
     result.finalize()
@@ -43,7 +43,7 @@ def getPicksForGroup(items, user, numRequested, resultSet):
     itemsToScore = {}
     for i in items:
         # If the items has already been voted, give it a score of zero.
-        if(user.hasVotedOnItem(i)):
+        if(user.hasVotedOnUrl(i)):
             # XXX: aren't we filtering this out else wh
             itemsToScore[i] = ScoredValue(0, "")
             continue
