@@ -5,6 +5,7 @@ ADD_VOTE = "insert into votes (userName, id, type) values (%s, %s, %s)"
 GET_ALL_VOTES_BY_USER = "select id, type from votes where userName = %s order by voteTime desc"
 GET_ALL_VOTE_IDS_BY_USER = "select id from votes where userName = %s"
 GET_ALL_MORE_VOTE_ID_ORDERED = "select id from votes where type = 'more' order by voteTime desc"
+GET_ALL_VOTED_URL_BY_USER = "select i.url from votes v, items i where v.userName = %s and i.id = v.id"
 DELETE_VOTE = "delete from votes where id = %s and userName = %s"
 UPDATE_VOTE_TYPE = "update votes set type = %s where id = %s and userName = %s"
 
@@ -24,8 +25,8 @@ def getAllVotesByUser(userName):
         result.append(Vote(itemId, type))
     return result
 
-def getAllVoteIdsByUser(userName):
-    return set([i[0] for i in executeSql(GET_ALL_VOTES_BY_USER, [userName])])
+def getAllVoteUrlsByUser(userName):
+    return set([i[0] for i in executeSql(GET_ALL_VOTED_URL_BY_USER, [userName])])
 
 def getOrderedLikedIds():
     data = executeSql(GET_ALL_MORE_VOTE_ID_ORDERED, [])

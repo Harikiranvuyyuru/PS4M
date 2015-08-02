@@ -1,4 +1,4 @@
-from .database.voteTable import getAllVotesByUser, getAllVoteIdsByUser
+from .database.voteTable import getAllVotesByUser, getAllVoteUrlsByUser
 from engine.analyzers.bayesScorer import BayesScorer
 from engine.analyzers.keyMakers import getItemUrlDomain, getItemSource, getTitleGrams
 
@@ -45,6 +45,4 @@ class User:
         return self.itemIdToVoteType[itemId]
 
     def updateVoteUrls(self):
-        pass
-        #assert(False)
-        #self.urlVotedOn = getAllVoteIdsByUser(self.name)
+        self.urlVotedOn = getAllVoteUrlsByUser(self.name)
