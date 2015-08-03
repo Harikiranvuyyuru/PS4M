@@ -7,7 +7,7 @@ apt-get update
 apt-get install emacs23 git libmysqlclient-dev mysql-server nginx python-dev python-pip zsh
 
 # python dependencies
-sudo pip install MySQL-python==1.2.3 pyramid==1.4a2 supervisor zope.interface==4.0.1 
+sudo pip install MySQL-python==1.2.3 pyramid==1.4a2 supervisor zope.interface==4.0.1 awscli
 
 
 git clone https://github.com/TobyRoseman/PS4M.git
