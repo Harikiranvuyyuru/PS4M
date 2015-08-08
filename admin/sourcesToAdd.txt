@@ -1,4 +1,8 @@
+http://feeds.feedburner.com/weburbanist Featured
 http://sadanimalfacts.com/rss Comics
+http://rayli.net/blog/feed/ Data Analysis
+http://everythingsstupid.net/?feed=rss2 Comics
+http://ivansmirnov.io/atom.xml Software Development
 http://thewanderlustkitchen.com/feed/ Cooking
 http://feeds.feedburner.com/dangerousminds/dot/net?format=xml Art
 http://bigishdata.com/feed/ Data Analysis
@@ -94,6 +98,7 @@ https://datayo.wordpress.com/feed/ Data Analysis
 https://datafloq.com/read/feed.rss Data Analysis
 http://chasingdelicious.com/feed/ Cooking
 http://kaisertiger.com/feed/ Beer
+http://nerds.airbnb.com/feed/ Data Analysis
 http://www.themealstorm.com/feed/ Comics
 http://feeds.feedburner.com/reason/AllArticles Featured
 http://www.gofindbeer.com/feed/ Beer
