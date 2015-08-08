@@ -1,7 +1,9 @@
+import cPickle
 import os
 from shutil import copyfile
 
 from engine.analyzers.keyMakers import getNGrams
+from engine.analyzers.counter import Counter, TextCounter
 
 DELIMITOR = '\001'
 WORK_DIR = './var'
@@ -69,6 +71,18 @@ def main():
     aggregateColumn('sourceUrl')
     print "Aggregating Titles"
     aggregateColumn('title')
+
+    # Convert text files to python pickle files
+    titleCounter = TextCounter()
+    titleCounter.deserialize('./var/title.count')
+    with open('./var/title.count.pickle', 'w') as f:
+        cPickle.dump(titleCounter, f)
+
+    sourceCounter = Counter()
+    sourceCounter.deserialize('./var/sourceUrl.count')
+    with open('./var/sourceUrl.count.pickle', 'w') as f:
+        cPickle.dump(sourceCounter, f)
+
 
 main()
 print "[Done]"

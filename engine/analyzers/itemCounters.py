@@ -1,3 +1,4 @@
+import cPickle
 import logging
 
 from .counter import Counter, TextCounter
@@ -9,17 +10,14 @@ log = logging.getLogger()
 def getCounter(counterName):
     return counter[counterName]
 
-def initializeItemCounters():
+def readCounters():
     global counter
     counter = {}
 
-    log.debug("Reading title counter ...")
-    titleCounter = TextCounter()
-    titleCounter.deserialize('./var/title.count')
-    counter["title"] = titleCounter
+    with open('./var/title.count.pickle') as f:
+        counter["title"] = cPickle.load(f)
 
-    log.debug("Building source counter ...")
-    sourceCounter = Counter()
-    sourceCounter.deserialize('./var/sourceUrl.count')
-    counter["source"] = sourceCounter
+    with open('./var/sourceUrl.count.pickle') as f:
+        counter["source"] = cPickle.load(f)
+
 

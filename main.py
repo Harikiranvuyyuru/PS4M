@@ -9,7 +9,7 @@ from pyramid.session import signed_deserialize, signed_serialize
 from pyramid.view import view_config
 from wsgiref.simple_server import make_server
 
-from engine.analyzers.itemCounters import initializeItemCounters
+from engine.analyzers.itemCounters import readCounters
 from engine.data.database.userTable import addUser, authenticateUser, getSavedPasswordHash, userExists
 from engine.itemManager import initItemManager, getSourceItems
 from engine.userManager import initUsers, getUser
@@ -62,7 +62,7 @@ def init():
 
     initSourceManager()
     initItemManager()
-    initializeItemCounters()
+    readCounters()
     initUsers()
 
 

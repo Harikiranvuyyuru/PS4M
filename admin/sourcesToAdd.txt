@@ -1,4 +1,5 @@
 http://sadanimalfacts.com/rss Comics
+http://thewanderlustkitchen.com/feed/ Cooking
 http://feeds.feedburner.com/dangerousminds/dot/net?format=xml Art
 http://bigishdata.com/feed/ Data Analysis
 http://braukaiser.com/blog/feed/ Beer
