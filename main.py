@@ -50,9 +50,16 @@ def getUserName(request):
     result = None
     if('sessionData' in request.cookies):
         encryptedSessionData = request.cookies['sessionData']
-        sessionData = signed_deserialize(encryptedSessionData, COOKIE_SECRET_KEY)
+
+        try:
+            sessionData = signed_deserialize(encryptedSessionData, COOKIE_SECRET_KEY)
+        except ValueError:
+            log.error('Seems like the signature has change. Most likely this server was rebooted since the log in.')
+            return None
+
         if('userName' in sessionData):
             result = sessionData['userName']
+
     return result
 
 
