@@ -46,14 +46,16 @@ class BayesScorer:
         if(len(keys) < 1):
             return ScoredValue(0.0, '')
         
-        debug_text = ''
+        debug_text = []
         score_sum = self.init_score
 
         for k in keys:
             cur_score = self.getKeyScore(k)
             if cur_score != 0:
-                debug_text += "[%s, %f]" % (str(k), cur_score)
+                debug_text.append("[%s, %f]" % (str(k), cur_score))
                 score_sum += cur_score
+
+        debug_text = '\n\t'.join(debug_text) + '\n'
 
         # Normalize
         score_sum = max(0, score_sum)

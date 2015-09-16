@@ -52,7 +52,7 @@ def getPicksForGroup(items, user, numRequested, resultSet):
         titleScore = user.titleScorer.getScore(i, getCounter("title"))
         sourceScore = user.sourceScorer.getScore(i, getCounter("source"))
 
-        itemsToScore[i] = ScoredValue(sourceScore.score * titleScore.score, "Source = %s\nTitle = %s\n" % (sourceScore, titleScore))
+        itemsToScore[i] = ScoredValue(sourceScore.score * titleScore.score, "Source =\n%s\nTitle = %s\n" % (sourceScore, titleScore))
 
     sortedItems = sorted(itemsToScore.iteritems(), key=lambda x: x[1].score, reverse=True)
 
