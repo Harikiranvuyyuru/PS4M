@@ -23,7 +23,7 @@ class ResultSet:
         item = copy(item)
 
         if(scoreInfo is not None and debugText is not None):
-            item.debugText = "%s, %s" % (debugText, scoreInfo)
+            item.debugText = "%s -\n%s" % (debugText, scoreInfo)
             self.itemToScore[item] = scoreInfo.score
 
         self.linkTypes.add(item.linkType)
