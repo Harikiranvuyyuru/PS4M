@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+set -x
 
 temp_file=/tmp/PS4M.db-$(date +\%m-\%d-\%Y)
 mysqldump --user=root --password=$DB_PASSWORD PS4M > $temp_file 2> /home/ubuntu/logs/dbBackup.txt
