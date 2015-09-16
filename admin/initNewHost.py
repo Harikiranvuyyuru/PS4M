@@ -19,3 +19,9 @@ mkdir ~PS4M/var ~logs
 mysql --user=root --password=$DB_PASSWORD PS4M <  /tmp/database_dump.sql
 
 mkdir -p /data/nginx/cache
+
+# In /etc/mysql/my.cnf add the following lines, in the [mysqld] section:
+# log-bin=mysql-bin
+# server-id=1
+# and bind address to 0.0.0.0
+
