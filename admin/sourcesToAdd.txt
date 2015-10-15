@@ -1,3 +1,4 @@
+http://dakotamcfadzean.com/feed/ Comics
 http://feeds.feedburner.com/CookieMonsterCooking?format=xml Cooking
 http://feeds.feedburner.com/DineAndDish?format=xml Cooking
 http://magiccoffeehair.tumblr.com/rss Comics
@@ -225,6 +226,9 @@ http://www.naturalcuresnotmedicine.com/feed/ Fitness
 http://zulko.github.io/atom.xml Software Development
 http://www.pbfcomics.com/feed/feed.xml Comics
 http://www.livelifehappy.com/feed/ Featured
+http://livelearnevolve.com/feed/ Featured
+http://www.sportsscience.co/feed/ Fitness
+http://blog.kptncook.com/feed/ Cooking
 http://www.simplecapacity.com/feed/ Featured
 http://feeds.feedburner.com/EatCakeForDinner?format=xml Cooking
 http://tworedbowls.com/feed/ Cooking

@@ -13,7 +13,7 @@ GET_ALL_ITEMS = "select id, url, title, sourceUrl from items"
 GET_IDS_RESTRICTED_BY_TIME = "select id from items where importedTime >= (NOW() - INTERVAL 1 DAY)"
 GET_ITEM = "select * from items where url = %s and title = %s and sourceUrl = %s"
 GET_ITEM_BY_ID = "select sourceUrl, title, url from items where id = %s;"
-GET_ITEMS_FOR_SOURCE = "select id from items where sourceUrl in (select url from sources where lookupId = %s) order by importedTime desc limit 250"
+GET_ITEMS_FOR_SOURCE = "select id from items where sourceUrl in (select url from sources where lookupId = %s) order by importedTime desc limit 100"
 GET_SOURCE_URL_FOR_ITEM_URL = "select sourceUrl from items where url = %s"
 
 log = logging.getLogger()

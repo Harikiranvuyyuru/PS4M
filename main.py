@@ -11,7 +11,7 @@ from wsgiref.simple_server import make_server
 
 from engine.analyzers.itemCounters import readCounters
 from engine.data.database.userTable import addUser, authenticateUser, getSavedPasswordHash, userExists
-from engine.itemManager import initItemManager, getSourceItems
+from engine.itemManager import initItemManager, getSourceItems, getNonExpiredItems
 from engine.userManager import initUsers, getUser
 from engine.picker import DEFAULT_ITEMS_PER_PAGE, getPicks
 from engine.resultSet import ResultSet
@@ -191,6 +191,21 @@ def signUp(request):
     return result 
 
 
+@view_config(route_name='sample')
+def sample(request):
+    user = getUser(getUserName(request))
+    item_universe = getNonExpiredItems()
+
+    from random import sample
+    ret = ResultSet(sample(item_universe, 100))
+    return render_to_response("listItems.mako", {'user': user, 'display': ret,
+                                                 'pageNum': 100, 'hasNextPage': False },
+                              request=request)
+
+
+
+
+
 _robots = open('frontEnd/static/robots.txt').read()
 _robots_response = Response(content_type='text/plain', body=_robots)
 @view_config(name='robots.txt')
@@ -236,6 +251,7 @@ if __name__ == '__main__':
     config.add_route('logIn', '/logIn')
     config.add_route('logOut', '/logOut')
     config.add_route('signUp', '/signUp')
+    config.add_route('sample', '/sample')
     config.scan()
 
     app = config.make_wsgi_app()
