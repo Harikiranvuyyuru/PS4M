@@ -1,4 +1,6 @@
 http://dakotamcfadzean.com/feed/ Comics
+http://numenta.com/blog/index.rss Data Analysis
+http://www.theawesomegreen.com/feed/ Cooking
 http://feeds.feedburner.com/CookieMonsterCooking?format=xml Cooking
 http://feeds.feedburner.com/DineAndDish?format=xml Cooking
 http://magiccoffeehair.tumblr.com/rss Comics
