@@ -38,6 +38,8 @@ http://higherperspectives.com/feed/ Featured
 http://absurdlifequote.tumblr.com/rss Featured
 http://onbrewing.com/feed/ Beer
 http://deep-dark-fears.tumblr.com/rss Comics
+http://thechive.com/feed/ Featured
+http://blog.agiledeveloper.com/feeds/posts/default Software Development
 http://feeds.feedburner.com/weburbanist Featured
 http://sadanimalfacts.com/rss Comics
 http://rayli.net/blog/feed/ Data Analysis
@@ -970,6 +972,7 @@ https://rclayton.silvrback.com/feed Software Development
 http://efavdb.com/feed/ Data Analysis
 http://www.louisdorard.com/blog?format=rss Data Analysis
 http://www.seasonsandsuppers.ca/feed/ Cooking
+http://www.louisdorard.com/blog?format=rss Data Analysis
 http://www.danielforsyth.me/rss/ Data Analysis
 http://www.micfarris.com/feed/ Data Analysis
 http://hifructose.com/feed/ Art
