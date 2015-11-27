@@ -976,11 +976,27 @@ http://www.louisdorard.com/blog?format=rss Data Analysis
 http://www.danielforsyth.me/rss/ Data Analysis
 http://www.micfarris.com/feed/ Data Analysis
 http://hifructose.com/feed/ Art
+http://josephg.com/blog/rss/ Software Development
+http://www.davidwind.dk/?feed=rss2 Data Analysis
+http://feeds.feedburner.com/NewRelic?format=xml Data Analysis
+http://feeds.feedburner.com/QuantopianBlog?format=xml Data Analysis
+http://narrative.mighty-site.com/blog/feed/ Data Analysis
+http://gettaphunter.com/feed/ Beer
+http://sylvainlabs.com/thealchemist/feed/ Featured
+http://sixty-north.com/blog/feed Software Development
+http://feeds2.feedburner.com/SixRevisions Infographics
+http://bjorn.tipling.com/feed Software Development
+http://www.infographicsshowcase.com/feed/ Infographics
+http://feeds.feedburner.com/AnalyticsVidhya?format=xml Data Analysis
+http://blog.seancassidy.me/atom.xml Software Development
+http://blog.terminal.com/rss/ Software Development 
+http://warontherocks.com/feed/ Featured
 http://www.emilio.ferrara.name/feed/ Data Analysis
 http://datasciencelab.wordpress.com/feed/ Data Analysis
 http://www.kennybastani.com/feeds/posts/default?alt=rss Data Analysis
 http://blog.ionelmc.ro/feeds/all.atom.xml Software Development
 http://kastnerkyle.github.io/rss.xml Data Analysis
+http://www.thecannabist.co/feed/
 http://feeds.feedburner.com/mathworks/loren Data Analysis
 http://feeds.feedburner.com/SteveOnImageProcessing Data Analysis
 http://blogs.mathworks.com/developer/feed/ Data Analysis
@@ -988,30 +1004,128 @@ http://feeds.feedburner.com/SethOnSimulink?format=xml Data Analysis
 http://feeds.feedburner.com/DougsMatlabVideoTutorials?format=xml Data Analysis
 http://feeds.feedburner.com/mathworks/moler?format=xml Data Analysis
 http://blogs.mathworks.com/graphics/feed/ Data Analysis
-
-NorthernBrewerTV beer 
-artofmanliness Man Stuff
-UCpvhlSLzg2LT89FNUuN-Sig Featured
-QuietAssassins Funny
-nqtv Funny
-thedomesticgeek1 Cooking
-mathematicalmonk Data Analysis
-tasted Cooking
-UCZcQwVpz3_OaKQvjYEbAWqg Beer
-UCpACreb1E23Z3anMUkHi0qg Beer
-UCfyehHM_eo4g5JUyWmms2LA Cooking
-UCvhtNZAeEYmEO8oiTGGWuIQ Cooking
-UC6j4vLYl7uwH-8dRYZd6yAw Cooking
-UCdJ9oJ2GUF8Vmb-G63ldGWg Science
-UCQabA_USF6lf1C4f-BJWycw Beer
-jakatak69 Cooking
-UCDETFHKteb-C_EaXmRKvP4w Featured
-UCO1cgjhGzsSYb1rsB4bFe4Q Software Development
-
-
-https://www.youtube.com/feeds/videos.xml?channel_id=
-
-
-
-
-update sources set url = 'http://waitbutwhy.com/feed' where lookupId = '3173';
+https://www.youtube.com/feeds/videos.xml?channel_id=UCh_h4W2VmFdo3R8g1XaXN_Q beer 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcAtD_VYwcYwVbTdvArsm7w Data Analysis
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxJmMieMe5ZoAsmqJpQt8MQ Funny
+https://www.youtube.com/feeds/videos.xml?channel_id=UCijDvo0eZB8Jb4XSnLnQ8vw Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQOQ3RxX_o-B-68wSKdcfMQ Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmPSwsooZq8an7xOLQQhAdw Funny
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf-k6-nJ6NzStEFdpBl03gQ Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpvhlSLzg2LT89FNUuN-Sig Featured
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZcQwVpz3_OaKQvjYEbAWqg Beer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpACreb1E23Z3anMUkHi0qg Beer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfyehHM_eo4g5JUyWmms2LA Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvhtNZAeEYmEO8oiTGGWuIQ Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6j4vLYl7uwH-8dRYZd6yAw Cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdJ9oJ2GUF8Vmb-G63ldGWg Science
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQabA_USF6lf1C4f-BJWycw Beer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDETFHKteb-C_EaXmRKvP4w Featured
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q Software Development
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkRMqL3hLrIYhxNCac4vR3w Man Stuff
+http://www.prometheusresearch.com/feed/ Data Analysis
+http://www.dataschool.io/rss/ Data Analysis
+http://blog.adatao.com/feed/ Data Analysis
+http://feeds.feedburner.com/datastax?format=xml Data Analysis
+http://blog.system76.com/rss Tech
+http://blog.confluent.io/feed/ Data Analysis
+https://rapidminer.com/feed/ Data Analysis
+https://womanstats.wordpress.com/feed/ Data Analysis
+http://nyghtowl.io/feed/ Data Analysis
+http://www.jeremymcohen.net/feed Data Analysis
+http://radimrehurek.com/feed/ Data Analysis
+http://matthewrocklin.com/blog/atom.xml Data Analysis
+http://blog.getprismatic.com/rss/ Data Analysis
+http://www.peterbronez.com/feed Data Analysis
+http://www.datarobot.com/blog/feed/ Data Analysis
+http://blog.helloreverb.com/feed/ Data Analysis
+https://www.whetlab.com/blog/feeds/ Data Analysis
+http://blog.minitab.com/rss Data Analysis
+http://feeds.feedburner.com/typepad/Bobsutton/my_weblog Featured
+http://www.pydanny.com/feeds/all.atom.xml Software Development
+http://www.looker.com/blog/feed Data Analysis
+http://engineering.bloomreach.com/feed/ Data Analysis
+http://blog.echen.me/feeds/all.rss.xml Data Analysis
+http://basho.com/feed/ Software Development
+http://blog.expectlabs.com/rss Data Analysis
+http://blog.alchemyapi.com/atom.xml Data Analysis
+http://blog.kimonolabs.com/feed/ Data Analysis
+https://developer.ibm.com/watson/blog/feed/ Data Analysis
+http://www.michael-noll.com/feed/ Data Analysis
+http://blog.godatadriven.com/feeds/rss.xml Data Analysis
+http://blog.xebia.com/feed/ Software Development
+http://pages.kiva.org/kivablog/feed Software Development
+http://blog.mrtz.org/feed.xml Data Analysis
+http://feeds.feedburner.com/nvidia/parallelforall?format=xml Data Analysis
+https://blog.parsely.com/feed/ Data Analysis
+http://blog.dominodatalab.com/rss/ Data Analysis
+http://thespread.us/feeds/all.atom.xml Data Analysis
+http://blog.plot.ly/rss Data Analysis
+http://blog.kimonolabs.com/feed/ Data Analysis
+http://humbledmba.com/posts.atom Featured
+http://efavdb.com/feed/ Data Analysis
+http://blog.plot.ly/rss Data Analysis
+http://labs.criteo.com/blog/feed/ Software Development
+http://feeds.feedburner.com/DataKind?format=xml Data Analysis
+http://www.ontotext.com/category/ontotext-blog/feed/ Data Analysis
+http://blog.sense.io/rss/ Data Analysis
+http://datacarpentry.github.io/blog/atom.atom Data Analysis
+http://grouplens.org/feed/ Data Analysis
+http://www.frankmcsherry.org/feed Data Analysis
+http://www.datarobot.com/blog/feed/ Data Analysis
+http://feeds.feedburner.com/QuantopianBlog Data Analysis
+http://blog.luminoso.com/feed/ Data Analysis
+http://dursi.ca/rss/ Data Analysis
+http://www.mu-sigma.com/analytics/blog/feed Data Analysis
+http://www.frankmcsherry.org/feed.xml Data Analysis
+https://blog.jupyter.org/rss/ Software Development
+http://www.qubole.com/feed/ Data Analysis
+http://www.bluedata.com/blog/feed/ Data Analysis
+http://www.paxata.com/blog/feed Data Analysis
+http://thomaswdinsmore.com/feed/ Data Analysis
+http://adtmag.com/rss-feeds/all-articles.aspx Data Analysis
+http://feeds.feedburner.com/metadata-era-varonis Data Analysis
+http://www.ianbicking.org/feeds/atom.xml Software Development
+http://jamesls.com/feeds/all.atom.xml Software Development
+http://www.bigdatalandscape.com/blog/feed Data Analysis
+http://cookingwithlittlebuddy.com/feed/ Cooking
+http://www.slideshare.net/rss/user/wesm Data Analysis
+http://feeds.feedburner.com/addthis/community?format=xml Software Development
+http://carlcheo.com/feed Software Development
+https://www.unwiredcouch.com/atom.xml Software Development
+http://www.ardendertat.com/feed/ Data Analysis
+http://datascience.la/feed/ Data Analysis
+http://blog.enthought.com/feed/rss/ Data Analysis
+http://www.mu-sigma.com/analytics/blog/feed Data Analysis
+http://feeds.feedburner.com/benstopford?format=xml Data Analysis
+http://www.socrata.com/feed/ Data Analysis
+http://www.socrata.com/tech-blog-posts/feed/ Data Analysis
+http://sundeepgupta.ca/feed/ Software Development
+https://arialdomartini.wordpress.com/feed/ Software Development
+http://www.evanmiller.org/news.xml Software Development
+http://lizthedeveloper.com/posts.atom Software Development
+https://www.countbayesie.com/?format=rss Data Analysis
+http://blog.trello.com/feed/ Featured
+http://bactra.org/weblog/index.rss Data Analysis
+http://blog.modeanalytics.com/feed.xml Data Analysis
+http://deepsense.io/feed/ Data Analysis
+http://lambda-the-ultimate.org/rss.xml Software Development
+https://robots.thoughtbot.com/feed Software Development
+http://datapenguins.blogspot.com/feeds/posts/default Data Analysis
+http://freakonometrics.hypotheses.org/feed Data Analysis
+http://www.smallsurething.com/feed/ Software Development
+https://blog.thousandeyes.com/feed/ Software Development
+http://lucidworks.com/blog/feed/ Data Analysis
+http://andrewchen.co/feed/ Software Development
+http://martin-thoma.com/feed/ Software Development
+http://numenta.com/blog/index.rss Data Analysis
+http://blog.alinelerner.com/feed/ Software Development
+https://civisanalytics.com/feed.xml Data Analysis
+http://www.theparisreview.org/blog/feed/ Featured
+http://engineering.quora.com/rss Software Development
+http://www.datanami.com/feed/ Data Analysis
+http://robrhinehart.com/?feed=rss2 Featured
+http://aleadeum.com/feed/ Data Analysis
+http://feeds.feedburner.com/colossal?format=xml Art
+http://blog.enigma.io/feed/ Data Analysis
+https://zebramedblog.wordpress.com/feed/ Data Analysis
+https://civisanalytics.com/feed.xml Data Analysis
