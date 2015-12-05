@@ -1,124 +1,3 @@
-http://2lemetry.com/feed/ Software Development
-http://42technologies.tumblr.com/rss Data Analysis
-http://abominable.cc/rss Comics
-http://absurdlifequote.tumblr.com/rss Featured
-http://accordingtodevin.tumblr.com/rss Comics
-http://adapasupport.zementis.com/feeds/posts/default Data Analysis
-http://adashofdata.com/feed/ Data Analysis
-http://adrianperez.org/rss/ Software Development
-http://adtmag.com/rss-feeds/all-articles.aspx Data Analysis
-http://aestheticio.com/feed/ Software Development
-http://ajkl.github.io/feed.xml Cooking
-http://aleadeum.com/feed/ Data Analysis
-http://aleheads.com/feed/ Beer
-http://alemeals.com/feed/ Cooking
-http://alimentageuse.com/home/feed/ Cooking
-http://allaboutbeer.com/feed/ Beer
-http://allthingspallet.com/feed/ Beer
-http://alyaabbott.wordpress.com/feed/ 
-http://analytical-solution.com/feed/ Data Analysis
-http://analyticisms.com/rss Data Analysis
-http://andrewchen.co/feed/ Software Development
-http://andrewgelman.com/feed/ Data Analysis
-http://angrystatistician.blogspot.com/feeds/posts/default Data Analysis
-http://arialdomartini.wordpress.com/feed/ Software Development
-http://awkwardzombie.com/awkward.php Comics
-http://bactra.org/weblog/index.rss Data Analysis
-http://barleypopmaker.info/feed/ Beer
-http://basho.com/feed/ Software Development
-http://beautifuldata.net/feed/ Data Analysis
-http://beergoddess.com/feed/ Beer
-http://beerisyourfriend.org/feed/ Beer
-http://beermasters.co/feed/ Beer
-http://beermumbo.com/feed/ Beer
-http://beersyndicate.com/blog/feed/ Beer
-http://beervsbeer.net/feed/ Beer
-http://behindthecraft.com/feed/ Beer
-http://bennesvig.com/feed/ Featured
-http://betsylife.com/feed/ Cooking
-http://beust.com/weblog/feed/ Software Development
-http://bigfootjustice.com/feed/ Comics
-http://bigishdata.com/feed/ Data Analysis
-http://bitesnbrews.com/feed/ Beer
-http://bits.citrusbyte.com/feed Software Development
-http://bjorn.tipling.com/feed Software Development
-http://blog.adatao.com/feed/ Data Analysis
-http://blog.agiledeveloper.com/feeds/posts/default Software Development
-http://blog.alchemyapi.com/atom.xml Data Analysis
-http://blog.algolia.com/feed/ Data Analysis
-http://blog.algorithmia.com/rss Data Analysis
-http://blog.algorithms.io/feeds/posts/default Data Analysis
-http://blog.alinelerner.com/feed/ Software Development
-http://blog.assaflavie.com/rss/ Featured
-http://blog.automatedinsights.com/rss Data Analysis
-http://blog.bigdata.com/?feed=rss2 Data Analysis
-http://blog.bountysource.com/rss Software Development
-http://blog.brakmic.com/feed/ Data Analysis
-http://blog.chefsteps.com/feed/ Cooking
-http://blog.cleancoder.com/atom.xml Software Development
-http://blog.confluent.io/feed/ Data Analysis
-http://blog.crisp.se/feed Software Development
-http://blog.dailyaifeed.com/feeds/posts/default Data Analysis
-http://blog.datacamp.com/feed/ Data Analysis
-http://blog.datadive.net/feed/ Data Analysis
-http://blog.data-miners.com/feeds/posts/default Data Analysis
-http://blog.dominodatalab.com/rss/ Data Analysis
-http://blog.dominoup.com/rss/ Data Analysis
-http://blog.ducksboard.com/feed/atom/ Data Analysis
-http://blog.echen.me/feeds/all.rss.xml Data Analysis
-http://blog.enigma.io/feed/ Data Analysis
-http://blog.enthought.com/feed/rss/ Data Analysis
-http://blog.expectlabs.com/rss Data Analysis
-http://blog.factual.com/feed Data Analysis
-http://blog.fastforwardlabs.com/rss Data Analysis
-http://blog.framed.io/feed/ Data Analysis
-http://blog.generalassemb.ly/feed/ Data Analysis
-http://blog.getprismatic.com/rss/ Data Analysis
-http://blog.godatadriven.com/feeds/rss.xml Data Analysis
-http://blog.goodeggs.com/rss Cooking
-http://blog.heapanalytics.com/feed/ Software Development
-http://blog.helloreverb.com/feed/ Data Analysis
-http://blog.helloreverb.com/feed/ Featured
-http://blog.idonethis.com/feed/ Featured
-http://blog.ionelmc.ro/feeds/all.atom.xml Software Development
-http://blog.ionelmc.ro/feeds/all.rss.xml Software Development
-http://blog.jerryorr.com/feeds/posts/default Software Development
-http://blog.jooq.org/feed/ Software Development
-http://blog.jupyter.org/rss/ Software Development
-http://blog.kimonolabs.com/feed/ Data Analysis
-http://blog.kissmetrics.com/feed/ Featured
-http://blog.kptncook.com/feed/ Cooking
-http://blog.luminoso.com/feed/ Data Analysis
-http://blog.mafr.de/feed/ Software Development
-http://blog.mikiobraun.de/feeds/posts/default Data Analysis
-http://blog.minitab.com/rss Data Analysis
-http://blog.modeanalytics.com/feed.xml Data Analysis
-http://blog.mongohq.com/feed/ Software Development
-http://blog.mrtz.org/feed.xml Data Analysis
-http://blog.nutonian.com/atom.xml Data Analysis
-http://blog.plot.ly/rss Data Analysis
-http://blog.recursiveprocess.com/feed/ Math
-http://blog.refresh.io/rss Featured
-http://blog.revolutionanalytics.com/atom.xml Data Analysis
-http://blog.rstudio.org/feed/ Data Analysis
-http://blogs.aws.amazon.com/bigdata/blog/feed/recentPosts.rss Data Analysis
-http://blog.scrapinghub.com/feed/ Data Analysis
-http://blog.seancassidy.me/atom.xml Software Development
-http://blog.sei.cmu.edu/feeds/rss.cfm Software Development
-http://blog.sendwithus.com/feed/ Software Development
-http://blog.sense.io/rss/ Data Analysis
-http://blogs.kqed.org/bayareabites/feed/ Cooking
-http://blogs.mathworks.com/developer/feed/ Data Analysis
-http://blogs.mathworks.com/graphics/feed/ Data Analysis
-http://blogs.msdn.com/b/dotnet/rss.aspx Software Development
-http://blogs.nuxeo.com/feed/ Data Analysis
-http://blog.statwing.com/feed/ Data Analysis
-http://blogs.technet.com/b/machinelearning/rss.aspx Data Analysis
-http://blog.stephenwyattbush.com/atom.xml Software Development
-http://blogs.teradata.com/rss/ Data Analysis
-http://blogs.teradata.com/scott-gnau/feed/ Data Analysis
-http://blogs.wsj.com/speakeasy/feed/ Movies & TV
-http://blog.system76.com/rss Tech
 http://blog.taplytics.com/feed Data Analysis
 http://blog.terminal.com/rss/ Software Development 
 http://blog.thedataincubator.com/feed/ Data Analysis
@@ -128,39 +7,26 @@ http://blog.treasuredata.com/feed/ Data Analysis
 http://blog.trello.com/feed/ Featured
 http://blog.tunedit.org/feed/ Data Analysis
 http://blog.typograffit.com/feed/ Art
-http://blog.untappd.com/rss Beer
 http://blog.untrod.com/feeds/posts/default Software Development
 http://blog.urx.com/?format=rss Data Analysis
 http://blog.xebia.com/feed/ Software Development
 http://blog.zillabyte.com/feed/ Data Analysis
 http://blogzuola.blogspot.com/feeds/posts/default Featured
 http://braukaiser.com/blog/feed/ Beer
-http://brewlust.com/feed/ Beer
-http://brewlust.com/feed/ Design
 http://bruceeckel.github.io/atom.xml Software Development
-http://brulosophy.com/feed/ Beer
-http://b-townblog.com/feed/ Seattle
 http://budgetcookingblog.wordpress.com/feed/ Cooking
 http://bulletin.imstat.org/feed/ Data Analysis
-http://buttpoems.tumblr.com/rss Comics
-http://cadeh.com/feed/ Comics
-http://cafejohnsonia.com/feed Cooking
 http://camdp.com/latest/feed/ Data Analysis
 http://carlcheo.com/feed Software Development
 http://cascadianow.org/blog/?format=rss Seattle
 http://chadfowler.com/atom.xml Software Development
-http://chaoslife.findchaos.com/feed Comics
 http://chasingdelicious.com/feed Cooking
-http://chasingdelicious.com/feed/ Cooking
 http://cleananddelicious.com/feed/ Cooking
 http://coding-and-more.blogspot.com/feeds/posts/default Software Development
-http://collegetimes.com/feed Funny
-http://completelyseriouscomics.com/?feed=rss2 Comics
 http://contextdrivenagility.com/feed/ Software Development
 http://continuum.io/blog/feed Data Analysis
 http://cookingstoned.tv/feed/ Cooking
 http://cookingwithlittlebuddy.com/feed/ Cooking
-http://crockpotgourmet.net/feed/ Cooking
 http://cscarioni.blogspot.com/feeds/posts/default Software Development
 http://culturecheesemag.com/feed Cooking
 http://dailyburn.com/atom.xml Fitness
@@ -179,7 +45,6 @@ http://datasciencelab.wordpress.com/feed/ Data Analysis
 http://datascience.la/feed/ Data Analysis
 http://datascience.stackexchange.com/feeds Data Analysis
 http://datavu.blogspot.com/feeds/posts/default Data Analysis
-http://deep-dark-fears.tumblr.com/rss Comics
 http://deeplearning.net/feed/ Data Analysis
 http://deepsense.io/feed/ Data Analysis
 http://developerblog.redhat.com/feed/ Software Development
@@ -187,10 +52,6 @@ http://dfkoz.tumblr.com/rss Data Analysis
 http://discernmylife.com/feed/ Featured
 http://distractify.com/feed Featured
 http://domesticsuperhero.com/feed/ Cooking
-http://doodleforfood.tumblr.com/rss Comics
-http://dorktoescomic.com/?feed=rss2 Comics
-http://dorrismccomics.com/rss Comics
-http://downtheupwardspiral.tumblr.com/rss Comics
 http://draftmag.com/feed Beer
 http://drinkableglobe.com/feed/ Beer
 http://drmcninja.com/feed/ Comics
@@ -200,9 +61,6 @@ http://edge.org/feed Featured
 http://efavdb.com/feed/ Data Analysis
 http://egtheory.wordpress.com/feed/ Data Analysis
 http://elanaspantry.com/feed/ Cooking
-http://elblogdejoancornella.blogspot.com/feeds/posts/default Comics
-http://electricbunnycomics.com/rssfeed.xml Comics
-http://elitedaily.com/feed/
 http://eli.thegreenplace.net/feeds/all.atom.xml Software Development
 http://eli.thegreenplace.net/feed/ Software Development
 http://en.codeceo.com/feed Software Development
@@ -211,12 +69,8 @@ http://engineering.bloomreach.com/feed/ Data Analysis
 http://engineering.eventbrite.com/feed/ Software Development
 http://engineering.flipboard.com/feed Software Development
 http://engineering.quora.com/rss Software Development
-http://escapefromburgertown.tumblr.com/rss Comics
 http://everythingsstupid.net/?feed=rss2 Comics
-http://existentialcomics.com/rss.xml Comics
 http://explodingdinosaur.com/feed/ Comics
-http://exstreamist.com/feed/ Movies & TV
-http://extrafabulouscomics.com/feed/ Comics
 http://fatawesome.com/feed/ Comics
 http://fatherly.com/feed/ Featured
 http://fedandfit.com/feed/ Cooking
@@ -259,7 +113,6 @@ http://feeds.feedburner.com/blogspot/SOpj?format=xml Economics
 http://feeds.feedburner.com/bonkersworldnet?format=xml Comics
 http://feeds.feedburner.com/brewersassociation/ODag?format=xml Beer
 http://feeds.feedburner.com/BroBible Man Stuff
-http://feeds.feedburner.com/brooklynsupper/sXCf Cooking
 http://feeds.feedburner.com/brooklynsupper/sXCf?format=xml Cooking
 http://feeds.feedburner.com/BuiltLean?format=xml Data Analysis
 http://feeds.feedburner.com/ButDoesItFloat?format=xml Art
@@ -273,17 +126,14 @@ http://feeds.feedburner.com/colossal?format=xml Art
 http://feeds.feedburner.com/CookieAndKate?format=xml Cooking
 http://feeds.feedburner.com/CookieMonsterCooking?format=xml Cooking
 http://feeds.feedburner.com/CulinaryConcoctionsByPeabody?format=xml Data Analysis
-http://feeds.feedburner.com/DamnLOL?format=xml Funny
 http://feeds.feedburner.com/dangerousminds/dot/net?format=xml Art
 http://feeds.feedburner.com/DashOfEast?format=xml Cooking
 http://feeds.feedburner.com/dataconomy?format=xml Data Analysis
-http://feeds.feedburner.com/DataKind?format=xml Data Analysis
 http://feeds.feedburner.com/dataminingblog?format=xml Data Analysis
 http://feeds.feedburner.com/datastax?format=xml Data Analysis
 http://feeds.feedburner.com/DataWrangling?format=xml Data Analysis
 http://feeds.feedburner.com/DelightfulTasteBuds Cooking
 http://feeds.feedburner.com/Demilked?format=xml Art
-http://feeds.feedburner.com/Detoxinista?format=xml Fitness
 http://feeds.feedburner.com/DineAndDish?format=xml Cooking
 http://feeds.feedburner.com/DJFoodie?format=xml Cooking
 http://feeds.feedburner.com/DougsMatlabVideoTutorials?format=xml Data Analysis
@@ -303,7 +153,6 @@ http://feeds.feedburner.com/firstround/TbEd?format=xml Tech
 http://feeds.feedburner.com/FogCreekBlog?format=xml Software Development
 http://feeds.feedburner.com/FoodFamilyFinds Cooking
 http://feeds.feedburner.com/ForSomeValueOfMagic Software Development
-http://feeds.feedburner.com/frugaling Featured
 http://feeds.feedburner.com/GeekAndPoke Comics
 http://feeds.feedburner.com/gimmesomeoven?format=xml Cooking
 http://feeds.feedburner.com/homebrewtalk?format=xml Beer
@@ -330,7 +179,6 @@ http://feeds.feedburner.com/Mercworks?format=xml Comics
 http://feeds.feedburner.com/metadata-era-varonis Data Analysis
 http://feeds.feedburner.com/michaelnielsen/iVot?format=xml Software Development
 http://feeds.feedburner.com/MichaelTricksORB?format=xml Data Analysis
-http://feeds.feedburner.com/MinimalistBaker?format=xml Cooking
 http://feeds.feedburner.com/moneymorning/jOLe Business
 http://feeds.feedburner.com/mrdias?format=xml Software Development
 http://feeds.feedburner.com/MrMoneyMustache?format=xml Featured
@@ -347,17 +195,13 @@ http://feeds.feedburner.com/OystercomTechBlog Software Development
 http://feeds.feedburner.com/Paleopot-PaleoRecipesForYourCrockPotSlowCooker?format=xml Cooking
 http://feeds.feedburner.com/peaceloveandlowcarb/xFKt?format=xml Cooking
 http://feeds.feedburner.com/PetaPixel?format=xml Art
-http://feeds.feedburner.com/Pidjin/ Comics
-http://feeds.feedburner.com/PlaidandPaleo Cooking
 http://feeds.feedburner.com/predictiveanalyticsworld/GXRy?format=xml Data Analysis
 http://feeds.feedburner.com/Pyimagesearch?format=xml Data Analysis
 http://feeds.feedburner.com/PythonTesting?format=xml Software Development
 http://feeds.feedburner.com/QualtricsBlog?format=xml Data Analysis
-http://feeds.feedburner.com/QuantopianBlog Data Analysis
 http://feeds.feedburner.com/QuantopianBlog?format=xml Data Analysis
 http://feeds.feedburner.com/queencitydrinks/ypBU Beer
 http://feeds.feedburner.com/QuillsAndFrills?format=xml Comics
-http://feeds.feedburner.com/raindogcomic/GEFe?format=xml Comics
 http://feeds.feedburner.com/reason/AllArticles Featured
 http://feeds.feedburner.com/reason/AllArticles?format=xml Featured
 http://feeds.feedburner.com/rsio?format=xml Data Analysis
@@ -403,13 +247,6 @@ http://feeds.feedburner.com/tumblr/hMRZ?format=xml Software Development
 http://feeds.feedburner.com/typepad/Bobsutton/my_weblog Featured
 http://feeds.feedburner.com/WashingtonBeerCommission?format=xml Beer
 http://feeds.feedburner.com/WebSeoAnalytics?format=xml Tech
-http://feeds.feedburner.com/weburbanist Featured
-http://feeds.feedburner.com/wholenourishment?format=xml Cooking
-http://feeds.feedburner.com/WishfulChef?format=xml Cooking
-http://feeds.feedburner.com/yes/happiness?format=xml Featured
-http://feeds.feedburner.com/yes/most-recent-articles?format=xml Featured
-http://feeds.venturebeat.com/bigdata Tech
-http://feeds.wired.com/wired/index Tech
 http://fergusonross.com/feed/ Featured
 http://fermentedreality.com/feed/ Beer
 http://finnhillbrewing.blogspot.com/feeds/posts/default Beer
@@ -423,7 +260,6 @@ http://fusion.net/feed/ Featured
 http://gastrolust.com/feed/ Cooking
 http://gemma-correll.blogspot.com/feeds/posts/default Comics
 http://gettaphunter.com/feed/ Beer
-http://goats.com/feed/ Comics
 http://gradientflow.com/feed/ Data Analysis
 http://graffitifeed.com/feed/ Art
 http://greatist.com/feed Fitness
@@ -439,13 +275,9 @@ http://hellogiggles.com/feed/ Women Stuff
 http://henrikwarne.com/feed/ Software Development
 http://heoyeahyum.com/feed/ Cooking
 http://heyluchie.tumblr.com/rss Comics
-http://hifructose.com/feed/ Art
 http://higherperspectives.com/feed/ Featured
 http://hijinksensue.com/feed/ Comics
 http://hissingcooker.com/feed/ Cooking
-http://honestslogans.com/rss Funny
-http://hoom.ph/rss Comics
-http://hopdata.com/blog/feed Data Analysis
 http://howtonotgiveafuck.com/rss Featured
 http://humbledmba.com/posts.atom Featured
 http://iamafoodblog.com/feed/ Cooking
@@ -457,13 +289,11 @@ http://infographicworld.com/feed/ Infographics
 http://inside-bigdata.com/feed/ Data Analysis
 http://insidebigdata.com/feed/ Data Analysis
 http://instagram-engineering.tumblr.com/rss Software Development
-http://introversecomic.tumblr.com/rss Comics
 http://inventwithpython.com/blog/feed/ Software Development
 http://inverseprobability.com/atom.xml Data Analysis
 http://iquantny.tumblr.com/rss Data Analysis
 http://irleif.com/feed/ Featured
 http://itsthetie.com/comic/feed/ Comics
-http://itsthetie.com/feed/ Comics
 http://ivansmirnov.io/atom.xml Software Development
 http://iwoaf.com/rss.xml Data Analysis
 http://jakeporway.tumblr.com/rss Art
@@ -474,7 +304,6 @@ http://jamesls.com/feeds/all.atom.xml Software Development
 http://jamesmcmurray.me/atom.xml Data Analysis
 http://jdh.hamkins.org/feed/ Math
 http://jd-mathbio.blogspot.com/feeds/posts/default Featured
-http://jeremykaye.tumblr.com/rss Comics
 http://jeremykun.com/feed/ Software Development
 http://jeremykun.wordpress.com/feed/ Data Analysis
 http://jimbenton.tumblr.com/rss Comics
@@ -497,10 +326,8 @@ http://krishnainfographics.com/feed/ Infographics
 http://kukuruku.co/rss/index/ Software Development
 http://kxcommunity.com/feed/ Data Analysis
 http://labs.criteo.com/blog/feed/ Software Development
-http://lakecitylive.net/feed/ Seattle
 http://lalith.in/feed Tech
 http://lambda-the-ultimate.org/rss.xml Software Development
-http://laughingsquid.com/feed/ Vapid but Cool 
 http://learn.kegerator.com/feed/ Beer
 http://lemire.me/blog/feed/ Featured
 http://leontius.net/feed/ Data Analysis
@@ -510,7 +337,6 @@ http://literatureandlibation.com/feed/ Beer
 http://livelearnevolve.com/feed/ Featured
 http://lizthedeveloper.com/posts.atom Software Development
 http://lky.ph/rss Cooking
-http://lolnein.com/feed/ Comics
 http://lolopeakbrewery.com/feed/ Cooking
 http://lucidworks.com/blog/feed/ Data Analysis
 http://luckypeach.com/feed/ Cooking
@@ -524,8 +350,6 @@ http://markscomics.tumblr.com/rss Comics
 http://markus.com/rss/ Data Analysis
 http://martin-thoma.com/feed/ Software Development
 http://mathbabe.org/feed/ Data Analysis
-http://mathwithbaddrawings.com/feed/ Comics
-http://mathwithbaddrawings.com/feed/ Math
 http://mattbites.com/feed Cooking
 http://matthewrocklin.com/blog/atom.xml Data Analysis
 http://matthewrocklin.com/blog/atom.xml Software Development
@@ -537,7 +361,6 @@ http://ml.posthaven.com/posts.atom Data Analysis
 http://mlwave.com/feed/ Data Analysis
 http://modernwifestyle.com/feed Cooking
 http://mortoray.com/feed/ Software Development
-http://motherboard.vice.com/rss Tech
 http://moviecode.tumblr.com/rss Software Development
 http://muratbuffalo.blogspot.com/feeds/posts/default Software Development
 http://mustardandboloney.com/feed/ Comics
@@ -558,7 +381,6 @@ http://newsouthfoodcompany.com/feed/ Cooking
 http://nickbirchstudio.tumblr.com/rss Comics
 http://nineteenletterslong.tumblr.com/rss Comics
 http://noobtheloser.com/?feed=rss2 Comics
-http://noodledoodles.net/feed/ Comics
 http://notwithoutsalt.com/feed Cooking
 http://numenta.com/blog/index.rss Data Analysis
 http://nuun.com/blog/feed/ Fitness
@@ -590,10 +412,8 @@ http://presidentjeff.blogspot.com/feeds/posts/default Comics
 http://primalbitesblog.com/feed/ Cooking
 http://problemtown.com/feed/ Comics
 http://programmingaregood.logdown.com/posts.atom Software Development
-http://projecthappiness.org/feed/ Featured
 http://psellos.com/atom-schnapsen.xml Featured
 http://pucomic.com/?feed=rss2 Comics
-http://pulptastic.com/feed/ Vapid but cool
 http://pythonforengineers.com/feed/ Software Development
 http://python-history.blogspot.com/feeds/posts/default Software Development
 http://rabbitualoffender.tumblr.com/rss Comics
@@ -639,7 +459,6 @@ https://datafloq.com/read/feed.rss Data Analysis
 https://datasciencelab.wordpress.com/feed/ Data Analysis
 https://datayo.wordpress.com/feed/ Data Analysis
 https://developer.ibm.com/watson/blog/feed/ Data Analysis
-https://eatingrules.com/feed/ Cooking
 http://sebastianraschka.com/rss_feed.xml Data Analysis
 http://sebastianraschka.com/rss_feed.xml Software Development
 http://seldo.com/api/getposts/atom/10/0/full Software Development
@@ -648,9 +467,6 @@ http://senko.net/feed Software Development
 https://ericbrews.wordpress.com/feed/ Beer
 http://serversforhackers.com/feed.xml Software Development
 https://freepythontips.wordpress.com/feed/ Software Development
-http://shahriar.svbtle.com/feed Software Development
-http://sharedappetite.com/feed/ Cooking
-https://haroldpimentel.wordpress.com/feed/ Data Analysis
 https://hdfgroup.org/wp/feed/ Data Analysis
 http://siliconangle.com/feed/ Tech
 https://illustratedbites.wordpress.com/feed/ Cooking
@@ -663,12 +479,10 @@ https://matloff.wordpress.com/feed/ Data Analysis
 https://metamarkets.com/feed/ Data Analysis
 https://modelviewculture.com/feed Featured
 http://snippyhollow.github.io/atom.xml Data Analysis
-https://odinbrewing.wordpress.com/feed/ Beer
 http://softwaremaestro.wordpress.com/feed/ Software Development
 http://soletshangout.com/feed/ Cooking
 http://solidgoldeats.com/feed/ Cooking
 http://somethingofthatilk.com/rss/index.php Comics
-http://southsoundmag.com/feed/ Seattle
 https://outlookzen.wordpress.com/feed/ Featured
 https://overflow.bufferapp.com/feed/ Data Analysis
 https://racketracer.wordpress.com/feed/
@@ -681,7 +495,6 @@ https://seanmckaybeck.com/rss/ Data Analysis
 https://signalvnoise.com/posts.rss Featured
 http://sssscomic.com/ssss-feed.xml Comics
 http://star-tink.com/journal/feed/ Featured
-http://statisticalfact.com/feed/ Comics
 http://statsguys.wordpress.com/feed/ Data Analysis
 http://stevepatrickadams.com/feed/ Comics
 https://thenib.com/feed Comics
@@ -733,11 +546,8 @@ https://zebramedblog.wordpress.com/feed/ Data Analysis
 http://talesofabsurdity.com/feed/ Comics
 http://technorati.com/feed/ Tech
 http://testimonialcomic.com/rss Comics
-http://thealerunner.com/feed/ Beer
 http://thebeerded.blogspot.com/feeds/posts/default Beer
 http://thebrewingnetwork.com/drhomebrew.xml Beer
-http://thechive.com/feed/ Featured
-http://thechive.com/feed/ Funny
 http://theconversation.com/articles.atom Featured
 http://theconversation.com/us/arts/articles.atom Art
 http://theconversation.com/us/business/articles.atom Business
@@ -762,14 +572,11 @@ http://thomaswdinsmore.com/feed/ Data Analysis
 http://threepanelsoul.com/feed/ Comics
 http://timoelliott.com/blog/feed/atom Data Analysis
 http://tobrewabeer.com/feed/ Beer
-http://todayinawesome.com/blog?format=rss Vapid but Cool
 http://toddwschneider.com/atom.xml Data Analysis
 http://tomfishburne.com/feed Comics
 http://tubeytoons.com/feed.php Comics
 http://twiecki.github.io/atom.xml Data Analysis
 http://tworedbowls.com/feed/ Cooking
-http://typicalprogrammer.com/feed/ Software Development
-http://tyrannyofpants.lens-capp.com/feed/ Comics
 http://uiuc.spoonuniversity.com/feed/ Cooking
 http://upvoted.com/feed/ Featured
 http://vdumoulin.github.io/feed Data Analysis
@@ -809,10 +616,6 @@ http://www.bigdata-madesimple.com/feed/ Data Analysis
 http://www.bigdata-startups.com/feed/ Data Analysis
 http://www.bluedata.com/blog/feed/ Data Analysis
 http://www.blue-kitchen.com/feed/ Cooking
-http://www.boredpanda.com/category/diy/feed/ DIY
-http://www.boredpanda.com/category/funny/feed/ Funny
-http://www.boredpanda.com/category/street-art/feed/ Art
-http://www.boredpanda.com/category/travel/feed/ Travel
 http://www.boxbrewkits.com/blogs/news.atom Beer
 http://www.brewbound.com/feed/ Beer
 http://www.bytemining.com/feed/ Data Analysis
@@ -822,14 +625,10 @@ http://www.cio.com/category/business-analytics/index.rss Data Analysis
 http://www.cio.com/index.rss Tech
 http://www.clearstorydata.com/blog/feed/ Data Analysis
 http://www.codecademy.com/blog.rss Software Development
-http://www.commitstrip.com/en/feed/ Comics
-http://www.commitstrip.com/en/feed/ Software Development
 http://www.cookingandbeer.com/feed/ Cooking
 http://www.cookingforengineers.com/atom.xml Cooking
 http://www.cooksmarts.com/feed/ Cooking
 http://www.cozycountryliving.com/feed/ Cooking
-http://www.craftbeeranalytics.com/3/feed Beer
-http://www.craftbeeranalytics.com/3/feed Data Analysis
 http://www.craftbeer.com/feed Beer
 http://www.crowdflower.com/blog/rss.xml Data Analysis
 http://www.curiousapes.com/feed/ Featured
@@ -839,7 +638,6 @@ http://www.datamation.com/rss.xml Data Analysis
 http://www.datanami.com/feed/ Data Analysis
 http://www.datapad.io/blog/rss/ Data Analysis
 http://www.datapipe.com/blog/feed/ Data Analysis
-http://www.datarobot.com/blog/feed/ Data Analysis
 http://www.dataschool.io/rss/ Data Analysis
 http://www.datstat.com/feed Data Analysis
 http://www.davidwind.dk/?feed=rss2 Data Analysis
@@ -848,24 +646,14 @@ http://www.dodgycoder.net/feeds/posts/default Software Development
 http://www.drmaciver.com/blog/feed/ Software Development
 http://www.droolworthydaily.com/149/feed Cooking
 http://www.dynamicyield.com/feed/ Data Analysis
-http://www.effectivepython.com/atom.xml Software Development
-http://www.eharmony.com/blog/feed/
 http://www.emilio.ferrara.name/feed/ Data Analysis
 http://www.erinshellman.com/feed/ Data Analysis
-http://www.evanmiller.org/news.xml Software Development
 http://www.experimentalbrew.com/rss.xml Beer
 http://www.fettlevegan.com/4/feed Cooking
-http://www.frankmcsherry.org/feed Data Analysis
-http://www.frankmcsherry.org/feed.xml Data Analysis
 http://www.garshol.priv.no/blog/index.xml Beer
 http://www.gimmesomeoven.com/feed/ Cooking
 http://www.glasbergen.com/feed/ Comics
-http://www.gofindbeer.com/feed/ Beer
-http://www.gofindbeer.com/feed/ Travel
-http://www.goneintorapture.com/feed/ Comics
-http://www.goodnoose.com/feed/ Comics
 http://www.halfbakedharvest.com/feed/ Cooking
-http://www.happyjar.com/feed/ Comics
 http://www.happymelly.com/feed/ Featured
 http://www.hejibits.com/feed/ Comics
 http://www.highexistence.com/feed/ Featured
@@ -891,7 +679,6 @@ http://www.kevinandamanda.com/recipes/feed Cooking
 http://www.kiji.org/blog/feed/ Data Analysis
 http://www.lauradhamilton.com/posts.rss Data Analysis
 http://www.lionsroar.com/feed Featured
-http://www.livelifehappy.com/feed/ Featured
 http://www.livescience.com/home/feed/site.xml Science
 http://www.loadingartist.com/feed/ Comics
 http://www.looker.com/blog/feed Data Analysis
@@ -902,14 +689,12 @@ http://www.loveandlemons.com/feed/ Cooking
 http://www.machinalis.com/blog/feeds/rss/ Data Analysis
 http://www.makingthymeforhealth.com/feed/ Cooking
 http://www.manmadediy.com/users/chris/posts.rss Man Stuff
-http://www.manvsmagic.com/feed.xml Comics
 http://www.maori.geek.nz/rss/ Software Development
 http://www.martingoodson.com/rss/ Data Analysis
 http://www.metacookbook.com/feed/ Cooking
 http://www.micfarris.com/feed/ Data Analysis
 http://www.michael-noll.com/feed/ Data Analysis
 http://www.mindbodygreen.com/rss/feed.xml Fitness
-http://www.mindful.org/rss Featured
 http://www.mindtools.com/import.rss Featured
 http://www.mu-sigma.com/analytics/blog/feed Data Analysis
 http://www.mynaturalfamily.com/feed/ Cooking
@@ -918,56 +703,41 @@ http://www.naturalcuresnotmedicine.com/feed/ Fitness
 http://www.nbrogi.com/blog/feed/ Software Development
 http://www.neighborfoodblog.com/feed Cooking
 http://www.ngdata.com/feed/ Data Analysis
-http://www.ninjaandpirate.com/feed/ Comics
 http://www.nolabeerblog.com/feeds/posts/default Beer
 http://www.northwestbeerblog.com/1/feed Beer
 http://www.notsoprofessionalbeer.com/feeds/posts/default Data Analysis
 http://www.number-2-pencil.com/feed Cooking
 http://www.ohbiteit.com/feed Cooking
-http://www.onceuponasaturday.com/feed/ Comics
 http://www.ontotext.com/category/ontotext-blog/feed/ Data Analysis
 http://www.ooyala.com/videomind/rss/full.xml Movies & TV
-http://www.opendatascience.com/feed/ Data Analysis
 http://www.overkillanalytics.net/feed/ Data Analysis
 http://www.paleodietbasics.net/feed/ Cooking
 http://www.paxata.com/blog/feed Data Analysis
-http://www.pbfcomics.com/feed/feed.xml Comics
 http://www.periscopic.com/feed/ Data Analysis
 http://www.persontyle.com/feed/ Data Analysis
 http://www.peterbronez.com/feed Data Analysis
 http://www.platingsandpairings.com/feed/ Cooking
-http://www.pleated-jeans.com/feed/ Funny
 http://www.polygon.com/rss/index.xml Tech
-http://www.pornhub.com/insights/feed/ Data Analysis
 http://www.preppypaleo.com/feeds/posts/default Cooking
 http://www.primalpalate.com/feed/ Cooking
 http://www.prometheusresearch.com/feed/ Data Analysis
 http://www.prooffreader.com/feeds/posts/default Featured
 http://www.pydanny.com/feeds/all.atom.xml Software Development
 http://www.qubole.com/feed/ Data Analysis
-http://www.rackafracka.com/feed/ Comics
-http://www.randalolson.com/feed/ Data Analysis
-http://www.ravennablog.com/feed/ Seattle
 http://www.rebellesociety.com/feed/ Featured
 http://www.reddit.com/r/bigdata.json Data Analysis
 http://www.reddit.com/r/computervision.json Data Analysis
-http://www.reddit.com/r/datascience.json Data Analysis
 http://www.reddit.com/r/financialindependence.json Featured
 http://www.reddit.com/r/fitness.json Fitness
 http://www.reddit.com/r/Health.json Fitness
 http://www.reddit.com/r/InternetIsBeautiful.json Featured
 http://www.reddit.com/r/languagetechnology.json Data Analysis
-http://www.reddit.com/r/Meditation.json Featured
-http://www.reddit.com/r/ProgrammerHumor.json Software Development
-http://www.reddit.com/r/running.json Fitness
 http://www.reddit.com/r/statistics.json Data Analysis
-http://www.reddit.com/r/UnusualArt.json Art
 http://www.redshallotkitchen.com/feeds/posts/default?alt=rss Cooking
 http://www.refinery29.com/rss.xml Featured
 http://www.reluctantgourmet.com/feed/ Cooking
 http://www.runnersworld.com/feeds/runners-world-feed Fitness
 http://www.sacramentostreet.com/feed/ Cooking
-http://www.sadanduseless.com/feed/ Funny
 http://www.safelyendangered.com/feed/ Comics
 http://www.sararuns.com/feed/ Cooking
 http://www.seasonsandsuppers.ca/feed/ Cooking
@@ -975,7 +745,6 @@ http://www.seattlebikeblog.com/feed/ Seattle
 http://www.secretitemworld.com/feed/ Comics
 http://www.self.com/feed/fitness/ Fitness
 http://www.simplecapacity.com/feed/ Featured
-http://www.slideshare.net/rss/user/wesm Data Analysis
 http://www.smallsurething.com/feed/ Software Development
 http://www.snackish.com/feed/ Cooking
 http://www.socrata.com/feed/ Data Analysis
@@ -984,7 +753,6 @@ http://www.sparkedminds.org/feed/ Featured
 http://www.sportsscience.co/feed/ Fitness
 http://www.spreeder.com/blog/feed/ Featured
 http://www.ssushant.in/rss.xml Software Development
-http://www.stanleycolors.com/feed/ Comics
 http://www.startup.ml/blog?format=rss Data Analysis
 http://www.statisticalhorizons.com/feed Data Analysis
 http://www.statisticsblog.com/feed/ Data Analysis
@@ -994,7 +762,6 @@ http://www.superhealthykids.com/blog.php?rss Cooking
 http://www.superhumanentrepreneur.com/feed/ Featured
 http://www.surfincubator.com/feed/ Seattle
 http://www.takipiblog.com/feed/ Software Development
-http://www.tasteaholics.com/feed/ Cooking
 http://www.techmeme.com/feed.xml Tech
 http://www.techrepublic.com/rssfeeds/articles/latest/ Software Development
 http://www.techrepublic.com/rssfeeds/articles/latest/ Tech
@@ -1002,7 +769,6 @@ http://www.techrepublic.com/rssfeeds/topic/big-data/ Data Analysis
 http://www.teradata.com/rss/Articles/ Data Analysis
 http://www.theawesomegreen.com/feed/ Cooking
 http://www.thebrightsidecomic.com/?feed=rss2 Comics
-http://www.thecannabist.co/feed/
 http://www.theconceptsproject.com/rss/ Featured
 http://www.theemotionmachine.com/feed Featured
 http://www.thefunctionalart.com/feeds/posts/default Data Analysis
@@ -1012,7 +778,6 @@ http://www.themealstorm.com/feed/ Comics
 http://www.theparisreview.org/blog/feed/ Featured
 http://www.thespicekitrecipes.com/feed Cooking
 http://www.thetjmccoyblog.com/feed/ Featured
-http://www.theurbanist.org/feed/ Seattle
 http://www.thevintagemixer.com/feed/ Cooking
 http://www.thevirtualballpit.com/?format=rss Comics
 http://www.topcoder.com/feed/?cat=320&post_type=blog Tech
@@ -1025,13 +790,18 @@ http://www.unofficialgoogledatascience.com/feeds/posts/default Data Analysis
 http://www.uvm.edu/storylab/feed/ Data Analysis
 http://www.veritablehokum.com/feed/ Comics
 http://www.viascience.com/feed/ Data Analysis
-http://www.vox.com/rss/index.xml News
 http://www.wds.co/feed/ Data Analysis
-http://www.whompcomic.com/feed/ Comics
-http://www.wildfermentation.com/feed/ Cooking
 http://www.winebags.com/feed Cooking
 http://www.wkup.org/feed/ Featured
 http://www.yummyhealthyeasy.com/feed Cooking
 http://zachholman.com/atom.xml Software Development
 http://zacstewart.com/feed Data Analysis
 http://zulko.github.io/atom.xml Software Development
+http://blog.confluent.io/feed/ Data Analysis
+http://beergoddess.com/feed/ Beer
+http://behindthecraft.com/feed/ Beer
+https://indico.io/blog/feed/ Data Analysis
+http://varianceexplained.org/feed Data Analysis
+http://blog.framed.io/feed/ Data Analysis
+http://blog.kimonolabs.com/feed/ Data Analysis
+http://blog.refresh.io/rss Featured
