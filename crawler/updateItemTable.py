@@ -38,7 +38,7 @@ for s in sources:
         sleep(1)
     try: 
         log.info("crawling %s" % (s.url.value))
-        crawl(s.url)
+        crawl(s.url, s.lookupId)
         domainToLastRequestedTime[targetDomain] = time()
     except:
         log.warn("Could not crawl %s. Error: %s" % (s.url.value, sys.exc_info()[0]))

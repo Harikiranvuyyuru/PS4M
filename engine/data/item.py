@@ -1,6 +1,5 @@
 import re
 
-from engine.sourceManager import getSourceByUrl
 from url import Url
 
 PICTURE = "Picture"

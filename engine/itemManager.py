@@ -3,7 +3,7 @@ import logging
 
 from data.database.itemTable import getAllNonExpiredIds, getItemIdsForSource, getSourceUrlTitleAndUrl
 from data.item import Item
-from .sourceManager import getSourceByUrl
+from .sourceManager import getSourceById
 
 
 log = logging.getLogger()
@@ -25,8 +25,8 @@ def getNonAggregatorItem(item):
 
 
 def getItem(itemId):
-    (sourceUrl, title, url) = getSourceUrlTitleAndUrl(itemId)
-    return Item(itemId, url, title, getSourceByUrl(sourceUrl))
+    (sourceId, title, url) = getSourceUrlTitleAndUrl(itemId)
+    return Item(itemId, url, title, getSourceById(sourceId))
 
 def report():
     # Report the number of nonexpired items per category

@@ -25,15 +25,16 @@ def handleLine(line):
     if not sourceExists(url):
         print("Adding " + url.value)
         webFeed = itemFactory(url)
-        if not hasSimilarSource(webFeed):
-            addSource(url, webFeed.name)
-            crawl(webFeed)
+        #if not hasSimilarSource(webFeed):
+        addSource(url, webFeed.name)
+        sourceId = urlToLookupId(url.value)
 
-            sourceId = urlToLookupId(url.value)
-            print "https://ps4m.com/s/%d" % (sourceId)
-        else:
-            print "NOT ADDING!"
-            return
+        crawl(webFeed, sourceId)
+
+        print "https://ps4m.com/s/%d" % (sourceId)
+        #else:
+        #    print "NOT ADDING!"
+        #    return
     else:
         print (url.value + " already exists")
 
@@ -58,6 +59,8 @@ SYNOPSIS
 
 lineParser = re.compile("^(\S+)\s?(.+)?$")
 
+# XXX: Using this is taking too much time. Try using it again when we have an index
+#        in the database to make url lookup quicker.
 def hasSimilarSource(webfeed):
     duplicateUrlCounter = defaultdict(lambda:0)
     for i in webfeed.items:
@@ -98,6 +101,7 @@ for line in sourceFile:
 sourceFile.close()
 
 # Report errors
-print 'Could Not Add the Following Line:'
+if problemLine:
+    print 'Could Not Add the Following Line:'
 for i in problemLine:
     print i

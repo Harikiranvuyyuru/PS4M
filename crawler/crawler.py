@@ -94,7 +94,7 @@ def atomFactory(dom, url):
     return webFeed(feedTitle, url, items)
 
 
-def crawl(input):
+def crawl(input, sourceId):
     webFeed = None
     if isinstance(input, Url):
         webFeed = itemFactory(input)
@@ -122,13 +122,13 @@ def crawl(input):
 
         # Try to instantiate, so we know putting in the DB is safe.
         try:
-            Item(-1, url, title, sourceUrl) # use fake/stub item id
+            Item(-1, url, title, sourceId) # use fake/stub item id
         except:
-            log.warn("Bad item: %s, %s, %s" % (url, title, sourceUrl)) 
+            log.warn("Bad item: %s, %s, %s" % (url, title, sourceId))
             continue
 
         # XXX: when the title is blank or a date, replace it with source Name?
-        addItem(url, title, webFeed.url.value)
+        addItem(url, title, sourceId)
 
 
 # Determine channel type, then call the appropriate function.

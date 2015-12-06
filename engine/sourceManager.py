@@ -2,11 +2,11 @@ from data.database.sourceGroupAssignmentTable import getSourceUrlToAssignedGroup
 from data.database.sourceGroupTable import getAllSourceGroupNames
 from data.database.sourceTable import getAllSources
 
-(categoryToSourceObjects, sourceCategoryNames, sourceUrlToAssignments, sourceUrlToSourceObject,
+(categoryToSourceObjects, sourceCategoryNames, sourceUrlToAssignments, sourceIdToSourceObject,
  unCategorizedSource) = ({}, None, None, None, None)
 
-def getSourceByUrl(sourceUrl):
-    return sourceUrlToSourceObject[sourceUrl]
+def getSourceById(sourceId):
+    return sourceIdToSourceObject[sourceId]
 
 def getSourceCategoryNames():
     return sourceCategoryNames
@@ -35,17 +35,17 @@ def __sourceUrlToCategorys__(source):
         return []
     
 def initSourceManager():
-    global sourceCategoryNames, sourceUrlToAssignments, sourceUrlToSourceObject, unCategorizedSource
+    global sourceCategoryNames, sourceUrlToAssignments, sourceIdToSourceObject, unCategorizedSource
     unCategorizedSource = []
 
     sourceCategoryNames = getAllSourceGroupNames()
     sourceUrlToAssignments = getSourceUrlToAssignedGroups()
     categoryToSourceUrl = {}
 
-    sourceUrlToSourceObject = {}
+    sourceIdToSourceObject = {}
     for s in getAllSources():
         s.categories = __sourceUrlToCategorys__(s)
-        sourceUrlToSourceObject[s.url.value] = s
+        sourceIdToSourceObject[s.lookupId] = s
 
         if(len(s.categories) != 0):
             _addToCategoryLookup(s)

@@ -8,12 +8,12 @@ from databaseConnection import executeSql, queryHasOneAndOnlyOneResult
 MAX_TITLE_LENGTH = 200
 MAX_URL_LENGTH = 600
 
-ADD_ITEM = "insert into items (url, title, sourceUrl) values (%s, %s, %s)"
+ADD_ITEM = "insert into items (url, title, sourceId) values (%s, %s, %s)"
 GET_ALL_ITEMS = "select id, url, title, sourceUrl from items"
 GET_IDS_RESTRICTED_BY_TIME = "select id from items where importedTime >= (NOW() - INTERVAL 1 DAY)"
-GET_ITEM = "select * from items where url = %s and title = %s and sourceUrl = %s"
-GET_ITEM_BY_ID = "select sourceUrl, title, url from items where id = %s;"
-GET_ITEMS_FOR_SOURCE = "select id from items where sourceUrl in (select url from sources where lookupId = %s) order by importedTime desc limit 100"
+GET_ITEM = "select * from items where url = %s and title = %s and sourceId = %s"
+GET_ITEM_BY_ID = "select sourceId, title, url from items where id = %s;"
+GET_ITEMS_FOR_SOURCE = "select id from items where sourceId = %s order by importedTime desc limit 100"
 GET_SOURCE_URL_FOR_ITEM_URL = "select sourceUrl from items where url = %s"
 
 log = logging.getLogger()
@@ -37,20 +37,20 @@ def __turncateTitle__(title, maxLength):
     return title
 
 
-def addItem(url, title, sourceUrl):
+def addItem(url, title, sourceId):
     if(__getMySqlLength__(url) > MAX_URL_LENGTH):
         log.warn("URL too long: %s. From %s" % (url, sourceUrl))
         return False
 
     title = __turncateTitle__(title, MAX_TITLE_LENGTH)
 
-    if(not(exists(url, title, sourceUrl))):
-        executeSql(ADD_ITEM, [url, title, sourceUrl])
+    if(not(exists(url, title, sourceId))):
+        executeSql(ADD_ITEM, [url, title, sourceId])
         return True
     return False
 
-def exists(url, title, sourceUrl):
-    return queryHasOneAndOnlyOneResult(GET_ITEM, [url, title, sourceUrl])
+def exists(url, title, sourceId):
+    return queryHasOneAndOnlyOneResult(GET_ITEM, [url, title, sourceId])
 
 def getAllItems():
     return executeSql(GET_ALL_ITEMS)
