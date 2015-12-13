@@ -14,7 +14,7 @@ GET_IDS_RESTRICTED_BY_TIME = "select id from items where importedTime >= (NOW() 
 GET_ITEM = "select * from items where url = %s and title = %s and sourceId = %s"
 GET_ITEM_BY_ID = "select sourceId, title, url from items where id = %s;"
 GET_ITEMS_FOR_SOURCE = "select id from items where sourceId = %s order by importedTime desc limit 100"
-GET_SOURCE_URL_FOR_ITEM_URL = "select sourceUrl from items where url = %s"
+GET_ITEMS_FOR_URL = "select id from items where url = %s;"
 
 log = logging.getLogger()
 
@@ -55,14 +55,14 @@ def exists(url, title, sourceId):
 def getAllItems():
     return executeSql(GET_ALL_ITEMS)
 
+def getAllItemsForUrl(url):
+    return [i[0] for i in executeSql(GET_ITEMS_FOR_URL, [url])]
+
 def getAllNonExpiredIds():
     return [i[0] for i in executeSql(GET_IDS_RESTRICTED_BY_TIME)]
 
 def getItemIdsForSource(lookupId):
     return [i[0] for i in executeSql(GET_ITEMS_FOR_SOURCE, [lookupId])]
-
-def getSourceUrlsForItemUrl(url):
-    return [i[0] for i in executeSql(GET_SOURCE_URL_FOR_ITEM_URL, url)]
 
 def getSourceUrlTitleAndUrl(item_id):
     return executeSql(GET_ITEM_BY_ID, item_id)[0]

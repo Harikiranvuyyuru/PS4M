@@ -1,13 +1,13 @@
 from collections import defaultdict
 import logging
 
-from data.database.itemTable import getAllNonExpiredIds, getItemIdsForSource, getSourceUrlTitleAndUrl
+from data.database.itemTable import getAllItemsForUrl, getAllNonExpiredIds, getItemIdsForSource, getSourceUrlTitleAndUrl
 from data.item import Item
 from .sourceManager import getSourceById
 
 
 log = logging.getLogger()
-(categoryToNonExpiredItems, allNonExpiredItems, urlToNonAggregatorId) = ({}, [], {})
+(categoryToNonExpiredItems, allNonExpiredItems) = ({}, [])
 
 
 def getNonExpiredItems(categoryName=None):
@@ -18,10 +18,16 @@ def getNonExpiredItems(categoryName=None):
 
 
 def getNonAggregatorItem(item):
-    url = item.url
-    if(url in urlToNonAggregatorId and item.source.isAggregator()):
-        return getItem(urlToNonAggregatorId[url])
+    if not item.source.isAggregator():
+        return item
+    candidates = getAllItemsForUrl(item.url.value)
+    for c in candidates:
+        c = getItem(c)
+        if not c.source.isAggregator():
+            print("none agg -", item.id, '->', c.id)
+            return c
     return None
+
 
 
 def getItem(itemId):
@@ -40,7 +46,7 @@ def getSourceItems(sourceId):
     return [getItem(i) for i in getItemIdsForSource(sourceId)]
 
 def initItemManager():
-    global categoryToNonExpiredItems, allNonExpiredItems, urlToNonAggregatorId
+    global categoryToNonExpiredItems, allNonExpiredItems
     log.info("Initializing Item Manager")
 
     allNonExpiredItems = [getItem(i) for i in getAllNonExpiredIds()]
@@ -50,14 +56,6 @@ def initItemManager():
     for i in allNonExpiredItems:
         for c in i.source.categories:
             categoryToNonExpiredItems[c].append(i)
-
-    PRIMARY_DELIMITOR = '\001'
-    file = open('var/duplicateUrlToOriginalid.txt')
-    for line in file:
-        line.rstrip()
-        (url, original_id) = line.split(PRIMARY_DELIMITOR)
-        urlToNonAggregatorId[url] = original_id
-    file.close()
 
     report()
     
