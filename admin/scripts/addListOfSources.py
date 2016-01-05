@@ -8,7 +8,7 @@ from crawler.crawler import crawl, itemFactory
 from engine.data.database.databaseConnection import commit, rollback
 from engine.data.database.sourceTable import addSource, sourceExists, urlToLookupId
 from engine.data.database.sourceGroupAssignmentTable import addSourceGroupAssignment
-from engine.data.database.itemTable import getSourceUrlsForItemUrl
+#from engine.data.database.itemTable import getSourceUrlsForItemUrl
 from engine.data.url import Url
 
 
