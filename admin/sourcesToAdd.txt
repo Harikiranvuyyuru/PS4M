@@ -1,3 +1,65 @@
+http://cube-drone.com/comics/c/torrents-to-remain-awesome Software Development
+http://cube-drone.com/comics/c/torrents-to-remain-awesome Comics
+http://www.buddytv.com/feeds/showfeed.aspx?show= Tv & Movies
+http://feeds.feedburner.com/victimsofcircumsolar?format=xml Comics
+http://thisisstatistics.org/feed/ Data Analysis
+http://feeds.feedburner.com/strengthrunning Fitness
+http://databozo.posthaven.com/posts.atom Data Analysis
+http://aholelottacheese.com/feed Cooking
+http://www.a-kitchen-addiction.com/feed Cooking
+http://amindfullmom.com/feed Cooking
+http://www.asaucykitchen.com/feed Cooking
+http://www.ambitiouskitchen.com/feed Cooking
+http://danaartinyan.com/feed Cooking
+http://www.carolinekaufman.com/feed Cooking
+http://www.champagnenutrition.com/feed Cooking
+http://www.cottercrunch.com/feed Cooking
+http://cravingsomethinghealthy.com/feed Cooking
+http://www.eatsrealfood.com/feed Cooking
+http://www.eatingbirdfood.com/feed Cooking
+http://www.familyfoodonthetable.com/feed Cooking
+http://www.fearlessdining.com/feed Cooking
+http://feedmephoebe.com/feed Cooking
+http://fiberisthefuture.com/feed Cooking
+http://www.foodandnutrition.org/feed Cooking
+http://www.healthygreenkitchen.com/feed Cooking
+http://healyeatsreal.com/feed Cooking
+http://www.heathergnutrition.com/modsblog/feed Cooking
+http://holleygrainger.com/blog/feed Cooking
+http://www.itsyummi.com/feed Cooking
+http://www.jenhaugen.com/blog/feed Cooking
+http://laurenkellynutrition.com/feed Cooking
+http://livethesmartway.com/feed Cooking
+http://magnoliadays.com/feed Cooking
+http://www.mariaushakova.com/feed Cooking
+http://www.mariespano.com//feed Cooking
+http://mimiavocado.com/feed Cooking
+http://www.momskitchenhandbook.com/feed Cooking
+https://nestleusa.wordpress.com/feed Cooking
+http://healthygrocerygirl.com/blog/feed Cooking
+http://nicsnutrition.com/feed Cooking
+http://nutritionstarringyou.com/feed Cooking
+http://nutritionalanatalie.com/feed Cooking
+http://www.nutritiouseats.com/feed Cooking
+http://www.nutritioulicious.com/blog/feed Cooking
+http://www.nutrizonia.com/feed Cooking
+http://www.realmomnutrition.com/feed Cooking
+http://quickhealthydelicious.weebly.com/feed Cooking
+http://shawsimpleswaps.com/feed Cooking
+http://smallgreenkitchen.com/feed Cooking
+http://www.heatherpavlik.com/feed Cooking
+http://healthyvoyager.com/feed Cooking
+http://www.planteatersmanifesto.com/blog/feed Cooking
+http://the-salty-tomato.com/feed Cooking
+http://liveanddiet.com/feed Cooking
+http://www.vegannie.com/feed Cooking
+http://www.veggirlrd.com/feed Cooking
+http://www.whatiruninto.com/feed Cooking
+http://lesswrong.com/promoted/.rss
+https://opensource.com/feed Tech
+http://astrofrog.github.io/rss.xml Software Development
+http://hilaryparker.com/feed/ Data Analysis
+http://www.dennisweyland.net/blog/ Math
 http://crosscut.com/feed/ Seattle
 http://accidentalis.com/feed Beer
 http://paleoleap.com/feed/ Fitness
@@ -582,3 +644,10 @@ http://www.takipiblog.com/feed/ Software Development
 http://www.teradata.com/rss/Articles/ Data Analysis
 http://www.theawesomegreen.com/feed/ Cooking
 http://www.theconceptsproject.com/rss/ Featured
+http://iwillnoteatoysters.com/feed/ Cooking
+http://www.skytree.net/feed/ Data Analysis
+https://blog.prediction.io/feed/ Data Analysis
+http://datascienceplus.com/feed/ Data Analysis
+http://thisisstatistics.org/feed/ Data Analysis
+
+UC1_uAIS3r8Vu6JjXWvastJg Math
