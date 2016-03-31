@@ -1,19 +1,19 @@
 from databaseConnection import executeSql
 
-ADD_GROUP_ASSIGNMENT = "insert ignore into sourceGroupAssignments (sourceUrl, groupName) values (%s, %s)"
-GET_ALL_ASSIGNMETS = "select sourceUrl, groupName from sourceGroupAssignments"
+ADD_GROUP_ASSIGNMENT = "insert ignore into sourceGroupAssignments (lookupId, groupName) values (%s, %s)"
+GET_ALL_ASSIGNMETS = "select lookupId, groupName from sourceGroupAssignments"
 
-def addSourceGroupAssignment(url, sourceGroupName):
-    executeSql(ADD_GROUP_ASSIGNMENT, [url.value, sourceGroupName])
+def addSourceGroupAssignment(lookupId, sourceGroupName):
+    executeSql(ADD_GROUP_ASSIGNMENT, [lookup, sourceGroupName])
 
-def getSourceUrlToAssignedGroups():
+def getSourceIdToAssignedGroups():
     result = {}
     rows = executeSql(GET_ALL_ASSIGNMETS)
     for r in rows:
         assert len(r) == 2
-        (sourceUrl, groupName) = r
-        if sourceUrl not in result:
-            result[sourceUrl] = [groupName]
+        (sourceId, groupName) = r
+        if sourceId not in result:
+            result[sourceId] = [groupName]
         else:
-            result[sourceUrl].append(groupName)
+            result[sourceId].append(groupName)
     return result

@@ -15,7 +15,7 @@ from engine.itemManager import initItemManager, getSourceItems, getNonExpiredIte
 from engine.userManager import initUsers, getUser
 from engine.picker import DEFAULT_ITEMS_PER_PAGE, getPicks
 from engine.resultSet import ResultSet
-from engine.sourceManager import initSourceManager 
+from engine.sourceManager import initSourceManager
 from engine.voter import voteOnId
 
 
