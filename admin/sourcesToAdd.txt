@@ -1,13 +1,18 @@
 http://turnoff.us/feed.xml Software Development
+http://lucyknisley.tumblr.com/rss Comics
 http://blog.ouseful.info/feed/ Data Analysis
 http://craftbeertastings.com/feed/ Beer
 http://feeds.feedburner.com/AmericanHomebrewersAssociation?format=xml Beer
 http://swanintelligence.com/feeds/all.rss.xml Data Analysis
+http://aadrake.com/feed.atom Data Analysis
 http://analyticsmadeskeezy.com/feed/ Data Analysis
 http://gapingvoid.com/blog/feed/ Featured
+http://www.beer-simple.com/brewing/?format=rss Beer
 http://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml
+http://www.beer-simple.com/beer/?format=rss Beer
 http://completelyseriouscomics.com/?feed=rss2 Comics
 http://jkllr.net/feed/ Featured
+http://ahoyuniverse.com/rss Comics
 https://www.reddit.com/r/Probiotics.json Health
 http://www.randalolson.com/feed/ Data Analysis
 http://www.mnn.com/rss/all-mnn-content Featured
@@ -21,7 +26,10 @@ http://feeds.feedburner.com/simplemindfulness Featured
 http://matpalm.com/blog/feed/index.xml Data Analysis
 http://feeds.coolhunting.com/ch Art
 http://nwtrailruns.com/blog/feed/ Seattle
+http://feeds.feedburner.com/JustOneCookbook?format=xml Cooking
 http://mattturck.com/feed/ Data Analysis
+http://www.linux-mag.com/feed/ Software Development
+http://spectrum.ieee.org/rss/fulltext Tech
 http://www.foodiecrush.com/feed/ Cooking
 http://feeds.feedburner.com/CafeDelites?format=xml Cooking
 http://www.thefrumps.com/feed Comics
@@ -574,6 +582,7 @@ http://vizual-statistix.tumblr.com/rss Data Analysis
 http://vizwiz.blogspot.com/feeds/posts/default Data Analysis
 http://wakeupandlaugh.com/feed/ Featured
 http://warontherocks.com/feed/ Featured
+https://processbrewing.wordpress.com/feed/ Beer
 http://wellandfull.com/feed/ Cooking
 http://whiteonricecouple.com/feed/ Cooking
 http://wikipediocracy.com/feed/ Featured
@@ -773,8 +782,11 @@ http://runawayrice.com/feed/ Cooking
 http://feeds.feedburner.com/zerohedge/feed
 http://www.kevanlee.com/feed/
 http://www.the-open-mind.com/feed/
+http://feeds.feedburner.com/bufferapp
 http://blog.mailchimp.com/feed/
-
+http://blog.busybuildingthings.com/rss
+http://qz.com/feed/
+http://www.saffo.com/feed/
 
 UC1_uAIS3r8Vu6JjXWvastJg Math
 UCtMGQhxDihrhxoswOZ0p5oA Data Analysis
