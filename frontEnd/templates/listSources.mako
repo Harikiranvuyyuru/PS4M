@@ -24,7 +24,7 @@ log = getLogger()
 <%def name="listGroup(groupName, sources)">
   <% sources = sorted(sources, key=lambda s: s.getHumanReadableName().lower()) %>
 
-  <h2>${groupName}</h2>
+  <h2><a href="/c/${groupName}">${groupName}</a></h2>
   % for s in sources:
     <a href="/s/${s.lookupId}">${s.getHumanReadableName()}</a><br />
   % endfor
