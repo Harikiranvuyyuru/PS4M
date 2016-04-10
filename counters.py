@@ -60,7 +60,7 @@ def breakTitleIntoNGrams():
 
 def main():
     print "Dumping Item Sources"
-    dumpItemTableColumn('sourceUrl')
+    dumpItemTableColumn('sourceId')
     print "Dumping Item Titles"
     dumpItemTableColumn('title')
 
