@@ -17,7 +17,7 @@ def getItemUrlDomain(item):
     return [item.url.getDomain()]
 
 def getItemSource(item):
-    return (item.source.url.value,)   # Returns a tuple
+    return (item.source.lookupId,)   # Returns a tuple
 
 def getTitleGrams(item):
     return getNGrams(item.title)

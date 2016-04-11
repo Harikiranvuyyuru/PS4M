@@ -68,7 +68,7 @@ def main():
     breakTitleIntoNGrams()
 
     print "Aggregating Sources"
-    aggregateColumn('sourceUrl')
+    aggregateColumn('sourceId')
     print "Aggregating Titles"
     aggregateColumn('title')
 
@@ -79,10 +79,9 @@ def main():
         cPickle.dump(titleCounter, f)
 
     sourceCounter = Counter()
-    sourceCounter.deserialize('./var/sourceUrl.count')
-    with open('./var/sourceUrl.count.pickle', 'w') as f:
+    sourceCounter.deserialize('./var/sourceId.count')
+    with open('./var/sourceId.count.pickle', 'w') as f:
         cPickle.dump(sourceCounter, f)
-
 
 main()
 print "[Done]"

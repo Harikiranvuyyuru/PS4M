@@ -65,9 +65,14 @@ class BayesScorer:
 
 
     def getKeyScore(self, k):
+        # XXX: quick fix. This should be refactored
+        if isinstance(k, long):
+            universeKey = str(k)
+        else:
+            universeKey = k
 
         if ((k in self.userCounters['more'] or k in self.userCounters['less'])
-            and (k in self.universeKeyCount)):
+            and (universeKey in self.universeKeyCount)):
             
             moreVoteCount = 0
             if k in self.userCounters['more']:
@@ -77,7 +82,7 @@ class BayesScorer:
             if k in self.userCounters['less']:
                 lessVoteCount = self.userCounters['less'][k]
 
-            score = float(moreVoteCount - lessVoteCount) / self.universeKeyCount[k]
+            score = float(moreVoteCount - lessVoteCount) / self.universeKeyCount[universeKey]
             assert(-1 <= score <= 1)
             return score
 

@@ -17,7 +17,7 @@ def readCounters():
     with open('./var/title.count.pickle') as f:
         counter["title"] = cPickle.load(f)
 
-    with open('./var/sourceUrl.count.pickle') as f:
+    with open('./var/sourceId.count.pickle') as f:
         counter["source"] = cPickle.load(f)
 
 
