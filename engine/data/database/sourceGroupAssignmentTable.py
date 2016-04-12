@@ -4,7 +4,7 @@ ADD_GROUP_ASSIGNMENT = "insert ignore into sourceGroupAssignments (lookupId, gro
 GET_ALL_ASSIGNMETS = "select lookupId, groupName from sourceGroupAssignments"
 
 def addSourceGroupAssignment(lookupId, sourceGroupName):
-    executeSql(ADD_GROUP_ASSIGNMENT, [lookup, sourceGroupName])
+    executeSql(ADD_GROUP_ASSIGNMENT, [lookupId, sourceGroupName])
 
 def getSourceIdToAssignedGroups():
     result = {}
