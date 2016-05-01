@@ -41,6 +41,7 @@ def handleLine(line):
     # If nessecary, assign source to group
     if(sourceGroupName is not None):
         print "\tAdding to %s" % (sourceGroupName)
+        sourceId = urlToLookupId(url.value)
         addSourceGroupAssignment(sourceId, sourceGroupName)
     return
 
