@@ -13,7 +13,7 @@ from counter import Counter
 from scoredValue import ScoredValue
 from itemCounters import getCounter
 
-SMOOTHING_SCORE = 0.01  # Only used for "established" accounts
+SMOOTHING_SCORE = 0.05  # Only used for "established" accounts
 
 class BayesScorer:
     def __init__(self, votes, keyMaker, universeCountKey):

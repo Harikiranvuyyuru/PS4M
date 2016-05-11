@@ -4,14 +4,14 @@ from engine.analyzers.keyMakers import getItemUrlDomain, getItemSource, getTitle
 
 
 class User:
-    def __init__(self, name):
+    def __init__(self, name, votes):
         self.name = name
         self.itemIdToVoteType = {}
         self.urlVotedOn = set()
         self.sourcesWithVotes = set()
 
         # Get all items user has voted on.
-        votes = getAllVotesByUser(self.name)
+        #votes = getAllVotesByUser(self.name)
         for v in votes:
             self.itemIdToVoteType[v.item.id] = v.type
             self.urlVotedOn.add(v.item.url)
@@ -39,6 +39,7 @@ class User:
     def hasVotedOnUrl(self, item):
         return (item.url in self.urlVotedOn)
 
+    # XXX: This isn't used
     def voteType(self, itemId):
         if itemId not in self.itemIdToVoteType:
             return None
