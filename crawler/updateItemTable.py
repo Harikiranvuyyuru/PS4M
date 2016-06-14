@@ -1,5 +1,6 @@
 import logging
 import os
+import signal
 import sys
 
 from random import shuffle
@@ -26,6 +27,13 @@ if(len(sys.argv) != 1):
 
 log = getLogger()
 domainToLastRequestedTime = {}
+
+# If this script runs longer than 7 hours, kill it.
+def max_runtime_exceeded(signum, frame):
+    log.error("Max runtime exceeded. Killing.")
+    sys.exit(1)
+signal.signal(signal.SIGALRM, max_runtime_exceeded)
+signal.alarm(7 * 60 * 60)
 
 log.info("Getting sources data")
 sources = getAllSources()
