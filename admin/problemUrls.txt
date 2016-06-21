@@ -50,4 +50,70 @@ http://www.thelawstudentswife.com/feed/ Cooking
 http://yarcdata.com/blog/feed Data Analysis
 http://www.automaticallybored.com/feed/  Comics
 http://beermumbo.com/feed/ Beer
-
+http://www.blue-kitchen.com/feed/ Cooking
+https://www.kiuwan.com/blog/feed/ Software Development
+http://snippyhollow.github.io/atom.xml Data Analysis
+http://www.alfredo.motta.name/ Software Development
+http://news.nextglass.co/feed/ Beer
+http://feeds.feedburner.com/TheBeerBuddhaANewOrleansBeerBlog?format=xml Beer
+http://tazadechocolate.blogspot.com/feeds/posts/default Cooking
+http://healthygrocerygirl.com/blog/feed Cooking
+http://growlab.ca/feed/ Featured
+http://feeds.feedburner.com/SethOnSimulink?format=xml Data Analysis
+https://blog.jupyter.org/rss/ Software Development
+http://feeds.feedburner.com/nvidia/parallelforall?format=xml Data Analysis
+http://www.superhealthykids.com/blog.php?rss Cooking
+http://apachesinthekitchen.blogspot.com/feeds/posts/default Cooking
+http://www.planteatersmanifesto.com/blog/feed Cooking
+http://www.foodandnutrition.org/feed Cooking
+http://www.displacedguy.com/feed/ Software Development
+http://www.jenhaugen.com/blog/feed Cooking
+http://feeds.feedburner.com/firstround/TbEd?format=xml Tech
+http://radify.io/api/rss Software Development
+http://www.vegannie.com/feed Cooking
+http://idibon.com/feed/ Data Analysis
+http://www.ancestralizeme.com/feed/ Healthy Living
+https://indico.io/blog/feed/ Data Analysis
+http://www.kiji.org/blog/feed/ Data Analysis
+https://www.brianthicks.com/rss/ Software Development
+http://www.applesandsparkle.com/feeds/posts/default Cooking
+http://www.ontotext.com/category/ontotext-blog/feed/ Data Analysis
+https://blog.prediction.io/feed/ Data Analysis
+http://www.jeremymcohen.net/feed Data Analysis
+http://feeds.feedburner.com/blogspot/kavcD?format=xml Cooking
+http://narrative.mighty-site.com/blog/feed/ Data Analysis
+http://martin-thoma.com/feed/ Software Development
+https://seanmckaybeck.com/rss/ Data Analysis
+http://feeds.feedburner.com/endlesssimmer/FGKD?format=xml Beer
+http://www.paxata.com/blog/feed Data Analysis
+https://serverlesscode.com/index.xml Software Development
+http://kidsactivitiesblog.com/feed Parenting
+http://www.bigdatalandscape.com/blog/feed Data Analysis
+http://fiberisthefuture.com/feed Cooking
+http://www.michael-noll.com/feed/ Data Analysis
+http://jamesmcmurray.me/atom.xml Data Analysis
+http://en.codeceo.com/feed Software Development
+http://kxcommunity.com/feed/ Data Analysis
+http://hadapt.com/feed/ Data Analysis
+http://kiji.org/blog/feed/ Data Analysis
+http://solidgoldeats.com/feed/ Cooking
+http://tobrewabeer.com/feed/ Beer
+https://blog.wizardry.io/feed.xml Software Development
+http://jd-mathbio.blogspot.com/feeds/posts/default Featured
+http://feeds.feedburner.com/DashOfEast?format=xml Cooking
+http://schoolofdata.org/blog/feed/ Data Analysis
+http://www.nbrogi.com/blog/feed/ Software Development
+http://gettaphunter.com/feed/ Beer
+http://higherperspectives.com/feed/ Featured
+http://www.ambitiouskitchen.com/feed Cooking
+http://feeds.feedburner.com/zerohedge/feed
+http://www.lorrinmaughan.com/1/feed Featured
+http://quickhealthydelicious.weebly.com/feed Cooking
+http://the-salty-tomato.com/feed Cooking
+https://civisanalytics.com/feed.xml Data Analysis
+http://feeds.feedburner.com/blogspot/INVQW?format=xml Cooking
+http://shawsimpleswaps.com/feed Cooking
+https://blog.thousandeyes.com/feed/ Software Development
+http://feeds.feedburner.com/BigbearswifesBlog?format=xml Cooking
+http://fermentedreality.com/feed/ Beer
+http://www.ssushant.in/rss.xml Software Development
