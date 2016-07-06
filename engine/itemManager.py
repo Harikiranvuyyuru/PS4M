@@ -17,14 +17,15 @@ def getNonExpiredItems(categoryName=None):
         return categoryToNonExpiredItems[categoryName]
 
 
-def getNonAggregatorItem(item):
+def getNonAggregatorItem(item, silent=False):
     if not item.source.isAggregator():
         return item
     candidates = getAllItemsForUrl(item.url.value)
     for c in candidates:
         c = getItem(c)
         if not c.source.isAggregator():
-            print("none agg -", item.id, '->', c.id)
+            if not silent:
+                print("none agg -", item.id, '->', c.id)
             return c
     return None
 
