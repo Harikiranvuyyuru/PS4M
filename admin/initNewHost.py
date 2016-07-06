@@ -16,6 +16,7 @@ git clone https://github.com/TobyRoseman/PS4M.git
 mkdir ~PS4M/var ~logs
 
 # Create database
+echo 'create database PS4M;' | mysql --user=root --password=$DB_PASSWORD
 mysql --user=root --password=$DB_PASSWORD PS4M <  /tmp/database_dump.sql
 
 mkdir -p /data/nginx/cache
